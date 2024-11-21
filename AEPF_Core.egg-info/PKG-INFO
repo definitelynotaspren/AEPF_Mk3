@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: AEPF_Core
+Version: 0.1.0
+Requires-Dist: pytest>=7.0.0
+Requires-Dist: pytest-cov>=4.0.0
