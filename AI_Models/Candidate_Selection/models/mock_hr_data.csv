@@ -1,0 +1,1001 @@
+candidate_id,age,education_level,years_experience,position_applied,technical_skills_score,communication_skills_score,leadership_skills_score,cultural_fit_score,previous_companies,certifications,willing_to_relocate,availability,salary_expectation,Hired
+1,50,Bachelor's,17,Analyst,90,82,54,56,1,3,Yes,Immediate,125675,No
+2,36,Bachelor's,20,Data Scientist,56,67,54,90,4,2,Yes,3 Months,99854,No
+3,29,Bachelor's,12,Project Manager,63,98,69,57,9,2,Yes,3 Months,117664,No
+4,42,Master's,20,Analyst,78,90,64,86,9,1,Yes,Immediate,136153,No
+5,40,Bachelor's,7,Data Scientist,68,58,67,100,9,0,Yes,3 Months,143616,No
+6,44,Bachelor's,6,Data Scientist,68,72,96,59,7,4,Yes,3 Months,85285,No
+7,32,Master's,22,Analyst,51,59,51,92,8,4,Yes,Immediate,67533,No
+8,32,Bachelor's,31,Project Manager,90,68,78,64,1,0,Yes,Immediate,82624,Yes
+9,45,Bachelor's,10,Data Scientist,94,96,62,87,4,1,Yes,Immediate,96996,Yes
+10,57,Bachelor's,21,Software Engineer,64,54,53,64,6,0,Yes,1 Month,96947,No
+11,45,Bachelor's,21,Project Manager,52,96,91,54,5,0,Yes,Immediate,77956,No
+12,24,Master's,24,Project Manager,60,72,94,78,5,4,Yes,3 Months,101030,No
+13,43,Bachelor's,21,Analyst,95,79,59,68,6,1,Yes,1 Month,108597,Yes
+14,23,Bachelor's,27,Analyst,79,74,80,100,2,2,Yes,1 Month,92443,Yes
+15,45,High School,28,Software Engineer,89,77,90,59,2,4,Yes,3 Months,148613,No
+16,51,Master's,12,Data Scientist,67,83,57,61,9,2,No,3 Months,115464,No
+17,59,Bachelor's,17,Analyst,100,94,52,53,8,1,Yes,Immediate,53952,Yes
+18,23,Master's,1,Analyst,97,97,97,80,7,0,Yes,Immediate,106880,Yes
+19,42,Bachelor's,28,Project Manager,51,96,95,67,4,3,Yes,1 Month,102201,No
+20,54,Master's,20,Analyst,81,74,58,65,5,3,Yes,Immediate,92460,No
+21,33,PhD,14,Analyst,57,59,79,89,9,1,Yes,Immediate,72796,No
+22,43,Master's,26,Analyst,71,63,60,85,0,3,Yes,1 Month,81746,No
+23,46,Master's,30,Analyst,55,91,84,74,9,2,Yes,3 Months,136785,No
+24,48,Bachelor's,14,Project Manager,61,95,86,72,0,3,Yes,Immediate,50015,Yes
+25,49,Bachelor's,22,Software Engineer,96,79,91,61,3,1,Yes,1 Month,99757,Yes
+26,37,Bachelor's,23,Software Engineer,89,90,62,83,1,1,Yes,Immediate,75957,Yes
+27,36,Bachelor's,12,Data Scientist,85,74,85,85,6,2,No,1 Month,131541,No
+28,24,Bachelor's,21,Analyst,64,63,62,86,1,3,Yes,Immediate,71292,No
+29,58,Bachelor's,32,Project Manager,77,84,61,52,9,3,No,3 Months,81876,No
+30,28,Bachelor's,2,Data Scientist,98,97,86,58,1,0,No,Immediate,110727,No
+31,42,Bachelor's,18,Data Scientist,94,83,59,67,4,4,Yes,1 Month,97046,Yes
+32,30,Master's,22,Software Engineer,67,59,58,92,3,1,Yes,Immediate,64817,No
+33,39,Bachelor's,28,Project Manager,51,84,56,84,7,0,Yes,Immediate,141006,No
+34,25,Master's,29,Project Manager,62,60,51,83,3,1,No,Immediate,59759,No
+35,46,Master's,24,Project Manager,94,60,72,90,5,0,No,Immediate,98432,No
+36,35,PhD,7,Software Engineer,64,70,88,63,4,4,Yes,Immediate,56412,No
+37,30,Bachelor's,15,Software Engineer,69,70,89,53,1,0,No,Immediate,107757,No
+38,47,Master's,7,Software Engineer,78,71,88,78,7,1,Yes,1 Month,70504,Yes
+39,23,PhD,0,Software Engineer,91,94,70,90,1,3,Yes,1 Month,58507,Yes
+40,41,Master's,4,Software Engineer,78,56,72,94,8,1,No,Immediate,71050,No
+41,49,Bachelor's,2,Analyst,52,66,78,99,8,2,No,1 Month,54820,No
+42,28,Bachelor's,0,Analyst,68,51,63,64,2,2,Yes,Immediate,57835,No
+43,29,Bachelor's,3,Project Manager,52,61,75,77,3,2,No,1 Month,143167,No
+44,56,High School,34,Data Scientist,63,91,100,91,7,2,No,Immediate,63587,No
+45,35,Bachelor's,31,Project Manager,89,67,54,65,8,4,No,1 Month,107732,No
+46,38,Master's,33,Data Scientist,53,60,80,61,2,3,No,Immediate,101921,No
+47,57,Master's,24,Software Engineer,60,65,74,54,4,3,No,3 Months,95499,No
+48,25,Bachelor's,9,Data Scientist,80,98,80,83,7,1,Yes,Immediate,56840,Yes
+49,23,Master's,20,Project Manager,92,100,99,91,2,0,No,Immediate,115077,No
+50,27,Bachelor's,26,Project Manager,81,67,69,50,6,1,Yes,Immediate,81440,No
+51,25,Master's,26,Data Scientist,76,84,93,88,7,1,No,3 Months,85183,No
+52,50,Master's,1,Analyst,79,75,66,81,9,1,Yes,1 Month,146172,No
+53,39,Bachelor's,12,Software Engineer,92,65,94,75,2,1,Yes,1 Month,52389,Yes
+54,47,Bachelor's,8,Software Engineer,51,55,51,66,1,3,Yes,3 Months,105076,No
+55,55,Master's,21,Project Manager,98,93,74,97,9,0,Yes,3 Months,116299,No
+56,31,Bachelor's,25,Analyst,58,92,62,76,6,1,Yes,1 Month,139461,No
+57,57,High School,11,Data Scientist,77,96,88,73,8,3,No,Immediate,142085,No
+58,35,Master's,16,Software Engineer,80,96,77,84,0,1,No,3 Months,89023,No
+59,52,Bachelor's,13,Analyst,83,97,91,95,2,2,Yes,Immediate,100029,Yes
+60,36,Master's,13,Software Engineer,64,91,55,91,4,1,No,1 Month,89941,No
+61,29,Bachelor's,33,Analyst,97,61,52,88,2,1,No,1 Month,138993,No
+62,35,Master's,19,Analyst,74,62,84,75,0,4,Yes,1 Month,103950,No
+63,44,Bachelor's,10,Project Manager,85,53,67,98,6,2,Yes,1 Month,136959,No
+64,42,PhD,15,Software Engineer,57,88,60,87,6,0,No,1 Month,126054,No
+65,37,Master's,30,Data Scientist,58,51,69,72,9,1,Yes,3 Months,115363,No
+66,39,Bachelor's,5,Project Manager,86,75,54,71,7,0,No,Immediate,111742,No
+67,45,Bachelor's,18,Project Manager,97,76,68,53,4,2,No,Immediate,147896,No
+68,47,PhD,3,Data Scientist,94,76,71,98,9,1,No,1 Month,95215,No
+69,46,Bachelor's,3,Project Manager,88,64,68,58,4,4,Yes,3 Months,97857,No
+70,50,Bachelor's,19,Analyst,81,57,96,53,4,3,Yes,Immediate,105476,No
+71,36,Bachelor's,9,Analyst,66,56,65,56,0,4,Yes,Immediate,78173,No
+72,22,Bachelor's,23,Software Engineer,84,96,73,72,9,4,Yes,Immediate,59395,Yes
+73,46,Master's,34,Software Engineer,86,95,90,51,4,3,Yes,Immediate,109768,Yes
+74,28,Bachelor's,25,Data Scientist,68,89,53,98,5,3,Yes,3 Months,134743,No
+75,30,Bachelor's,20,Software Engineer,93,61,64,73,0,3,Yes,1 Month,96229,Yes
+76,45,Bachelor's,20,Analyst,78,62,74,89,6,1,No,1 Month,76639,No
+77,22,Bachelor's,9,Data Scientist,56,92,93,80,0,0,Yes,1 Month,112583,Yes
+78,29,Bachelor's,3,Data Scientist,77,66,84,96,1,0,Yes,1 Month,78924,Yes
+79,45,Bachelor's,19,Software Engineer,58,66,63,80,1,3,Yes,Immediate,122969,No
+80,32,Master's,16,Analyst,77,85,98,96,4,4,Yes,Immediate,80104,Yes
+81,38,Bachelor's,6,Data Scientist,55,70,68,89,9,2,Yes,Immediate,87594,No
+82,29,Bachelor's,3,Analyst,78,57,87,97,6,3,No,Immediate,53664,No
+83,56,Master's,28,Analyst,66,54,85,100,0,4,Yes,Immediate,60528,No
+84,56,Bachelor's,13,Analyst,65,75,56,92,9,4,No,Immediate,78190,No
+85,54,Master's,2,Software Engineer,72,65,79,83,0,1,Yes,Immediate,116033,No
+86,26,Bachelor's,23,Project Manager,80,85,68,73,0,1,No,Immediate,111161,No
+87,49,High School,15,Project Manager,52,77,98,98,5,0,No,1 Month,123177,No
+88,28,Bachelor's,3,Data Scientist,70,78,74,75,1,0,No,Immediate,120179,No
+89,30,Bachelor's,23,Analyst,75,96,65,65,0,2,No,3 Months,120592,No
+90,29,Master's,33,Software Engineer,85,61,96,96,5,2,No,Immediate,82899,No
+91,33,Bachelor's,29,Analyst,91,86,89,62,1,2,No,1 Month,120979,No
+92,55,Bachelor's,17,Analyst,86,79,100,64,5,2,Yes,3 Months,67241,No
+93,54,Bachelor's,18,Software Engineer,71,72,57,76,9,4,Yes,3 Months,96211,No
+94,44,Bachelor's,30,Project Manager,91,65,67,53,7,4,Yes,3 Months,113472,No
+95,45,Master's,18,Analyst,61,63,77,65,1,0,Yes,Immediate,124248,No
+96,58,Bachelor's,18,Analyst,91,59,65,79,8,1,Yes,Immediate,123757,No
+97,56,Bachelor's,21,Project Manager,62,56,68,93,7,1,Yes,Immediate,81346,No
+98,43,Bachelor's,23,Software Engineer,60,94,91,79,9,3,No,Immediate,131196,No
+99,48,Bachelor's,11,Data Scientist,65,86,66,85,0,4,No,Immediate,127124,No
+100,56,Master's,29,Project Manager,57,78,94,52,6,2,Yes,3 Months,92220,No
+101,22,Bachelor's,30,Data Scientist,89,52,62,71,9,2,Yes,1 Month,67942,No
+102,56,Master's,18,Data Scientist,89,64,56,98,5,3,No,1 Month,99167,No
+103,58,Bachelor's,29,Project Manager,94,85,76,71,5,1,Yes,3 Months,86373,No
+104,35,Bachelor's,32,Analyst,51,96,59,99,5,2,No,1 Month,117143,No
+105,24,PhD,17,Data Scientist,79,95,83,99,5,1,Yes,1 Month,52016,Yes
+106,22,Bachelor's,27,Data Scientist,79,68,85,98,9,3,Yes,1 Month,119110,Yes
+107,26,High School,10,Software Engineer,61,62,74,61,6,1,Yes,Immediate,96309,No
+108,47,Master's,32,Analyst,59,91,55,70,2,1,No,Immediate,57274,No
+109,35,High School,16,Data Scientist,93,70,73,53,5,1,Yes,3 Months,65748,No
+110,48,Master's,5,Software Engineer,60,86,67,80,2,2,Yes,3 Months,70175,No
+111,30,Bachelor's,3,Analyst,64,76,72,93,6,0,Yes,3 Months,61826,No
+112,36,Master's,19,Project Manager,65,78,55,80,6,4,Yes,Immediate,133008,No
+113,36,Master's,26,Project Manager,66,69,78,72,7,1,No,3 Months,84129,No
+114,47,Bachelor's,14,Software Engineer,75,74,74,69,1,1,No,Immediate,120009,No
+115,34,Master's,5,Project Manager,51,55,66,64,8,1,Yes,Immediate,73490,No
+116,53,Bachelor's,13,Data Scientist,99,85,95,72,4,0,Yes,Immediate,91435,Yes
+117,53,PhD,10,Analyst,61,51,73,77,8,3,Yes,Immediate,125017,No
+118,25,Bachelor's,8,Data Scientist,100,71,60,65,9,2,No,Immediate,58520,No
+119,51,Bachelor's,25,Data Scientist,75,81,75,86,4,0,No,Immediate,141951,No
+120,58,Bachelor's,15,Project Manager,72,65,100,70,6,1,Yes,Immediate,133106,No
+121,44,Bachelor's,4,Data Scientist,67,67,83,64,8,0,No,Immediate,111877,No
+122,36,Bachelor's,9,Project Manager,81,54,77,66,3,0,Yes,1 Month,69798,No
+123,50,Master's,2,Analyst,98,85,52,99,1,0,No,1 Month,104638,No
+124,57,Master's,12,Analyst,87,79,60,86,8,3,No,Immediate,119072,No
+125,34,PhD,29,Data Scientist,96,94,87,62,1,4,No,Immediate,117309,No
+126,53,Bachelor's,5,Software Engineer,52,68,63,68,2,2,No,1 Month,79894,No
+127,28,Bachelor's,16,Project Manager,87,72,100,79,9,3,Yes,1 Month,112963,Yes
+128,43,Bachelor's,18,Project Manager,52,83,75,94,1,3,No,Immediate,104567,No
+129,49,Bachelor's,34,Data Scientist,79,62,97,67,2,4,Yes,1 Month,85326,Yes
+130,23,Bachelor's,25,Project Manager,50,92,70,63,5,3,Yes,3 Months,105059,No
+131,27,Bachelor's,4,Project Manager,79,78,88,85,2,0,Yes,Immediate,55079,Yes
+132,49,Master's,28,Software Engineer,94,85,79,85,9,0,No,Immediate,75838,No
+133,49,Bachelor's,19,Software Engineer,81,71,57,69,7,1,Yes,Immediate,137340,No
+134,41,Bachelor's,20,Data Scientist,77,96,100,68,5,3,Yes,1 Month,97109,Yes
+135,51,High School,9,Software Engineer,70,85,69,94,6,1,Yes,Immediate,135211,No
+136,32,High School,4,Data Scientist,95,58,97,93,0,2,Yes,Immediate,75594,Yes
+137,49,High School,5,Analyst,62,88,81,56,2,0,Yes,Immediate,92749,No
+138,46,PhD,25,Data Scientist,76,100,71,93,2,2,No,3 Months,86292,No
+139,54,High School,3,Analyst,85,68,56,53,1,4,No,1 Month,124534,No
+140,22,Bachelor's,34,Data Scientist,56,87,58,83,6,0,Yes,1 Month,129233,No
+141,48,Bachelor's,0,Project Manager,71,55,94,51,8,2,No,3 Months,101818,No
+142,34,Master's,23,Software Engineer,59,96,50,54,3,4,No,Immediate,63429,No
+143,24,PhD,5,Analyst,88,64,78,59,4,2,Yes,3 Months,107748,No
+144,27,Master's,30,Data Scientist,64,69,57,81,2,4,No,1 Month,98807,No
+145,29,Bachelor's,19,Software Engineer,64,58,53,91,8,4,No,Immediate,57140,No
+146,48,Bachelor's,23,Data Scientist,53,81,84,90,3,0,Yes,3 Months,113226,No
+147,30,High School,24,Software Engineer,81,53,52,62,4,1,Yes,3 Months,64901,No
+148,58,PhD,20,Software Engineer,72,99,94,88,0,4,No,3 Months,138815,No
+149,54,Master's,29,Data Scientist,55,67,89,54,1,4,Yes,Immediate,78525,No
+150,45,Bachelor's,23,Analyst,73,54,56,59,8,0,Yes,3 Months,70491,No
+151,36,Master's,29,Analyst,69,69,76,59,1,1,Yes,3 Months,118816,No
+152,53,Master's,21,Project Manager,86,72,50,87,4,3,Yes,Immediate,84980,Yes
+153,53,Bachelor's,27,Software Engineer,69,60,76,76,7,3,No,Immediate,145525,No
+154,45,PhD,6,Project Manager,61,86,65,100,2,1,Yes,Immediate,58078,No
+155,33,Master's,34,Project Manager,82,71,87,70,5,2,Yes,3 Months,141654,No
+156,23,Bachelor's,27,Data Scientist,77,53,56,57,3,0,Yes,1 Month,139521,No
+157,24,Bachelor's,13,Data Scientist,57,78,93,50,6,1,Yes,Immediate,98704,No
+158,58,High School,9,Data Scientist,50,93,72,77,9,3,Yes,Immediate,66997,No
+159,38,Bachelor's,15,Software Engineer,86,83,90,98,2,4,Yes,Immediate,129810,No
+160,23,High School,15,Data Scientist,71,62,60,88,5,3,No,1 Month,50868,No
+161,23,Bachelor's,30,Data Scientist,55,91,91,63,9,4,Yes,Immediate,76398,No
+162,49,PhD,24,Software Engineer,70,58,82,70,8,0,Yes,3 Months,131578,No
+163,44,Bachelor's,12,Software Engineer,81,91,99,79,9,4,Yes,1 Month,147356,No
+164,58,Bachelor's,5,Analyst,84,80,85,70,0,1,Yes,1 Month,71246,Yes
+165,53,Bachelor's,8,Data Scientist,64,56,86,98,2,4,Yes,Immediate,70561,No
+166,54,Bachelor's,19,Data Scientist,54,53,90,58,1,2,Yes,Immediate,66254,No
+167,22,Master's,17,Data Scientist,95,68,66,66,7,1,No,Immediate,84512,No
+168,40,Bachelor's,20,Analyst,99,91,84,54,6,0,Yes,Immediate,139532,No
+169,23,Bachelor's,3,Data Scientist,97,79,97,80,1,1,No,Immediate,144154,No
+170,47,Bachelor's,32,Analyst,55,80,54,89,5,2,Yes,3 Months,127395,No
+171,53,Master's,26,Project Manager,74,84,97,87,2,0,No,Immediate,107865,No
+172,27,Master's,6,Analyst,95,70,81,92,7,3,Yes,Immediate,73580,Yes
+173,53,High School,5,Project Manager,89,80,52,68,9,2,No,Immediate,120959,No
+174,25,Bachelor's,14,Data Scientist,78,68,96,85,2,0,Yes,Immediate,122144,No
+175,32,Bachelor's,17,Project Manager,56,80,84,99,9,4,Yes,3 Months,92485,No
+176,38,Bachelor's,31,Analyst,89,81,63,82,8,1,Yes,Immediate,100621,Yes
+177,59,Bachelor's,10,Software Engineer,62,51,97,62,0,0,No,Immediate,100665,No
+178,45,Bachelor's,19,Project Manager,87,59,80,63,4,1,Yes,1 Month,120412,No
+179,26,Bachelor's,23,Project Manager,67,51,80,82,2,4,Yes,Immediate,100603,No
+180,55,Bachelor's,14,Data Scientist,51,51,66,78,5,0,No,Immediate,71038,No
+181,27,Master's,6,Analyst,57,73,73,92,9,3,Yes,Immediate,143542,No
+182,43,Bachelor's,20,Project Manager,60,66,72,98,1,2,No,Immediate,146346,No
+183,32,Bachelor's,25,Project Manager,82,81,67,85,8,0,Yes,Immediate,64325,Yes
+184,37,Bachelor's,13,Project Manager,87,65,99,93,5,4,No,Immediate,85892,No
+185,54,Bachelor's,20,Project Manager,97,65,63,59,6,0,Yes,3 Months,51753,No
+186,30,Master's,17,Software Engineer,76,95,99,80,4,1,Yes,Immediate,145067,No
+187,27,Bachelor's,4,Analyst,69,88,64,55,8,0,Yes,1 Month,67996,No
+188,37,Bachelor's,2,Data Scientist,61,80,64,50,0,3,No,1 Month,118811,No
+189,50,Master's,22,Data Scientist,92,92,55,56,4,0,Yes,1 Month,124283,No
+190,24,Bachelor's,25,Software Engineer,80,73,76,76,9,2,Yes,Immediate,95211,Yes
+191,41,Bachelor's,23,Analyst,76,50,64,70,5,0,No,Immediate,112820,No
+192,57,Master's,18,Project Manager,81,60,99,77,6,1,Yes,1 Month,50824,Yes
+193,40,Bachelor's,24,Software Engineer,59,70,85,65,3,0,No,1 Month,63880,No
+194,47,Bachelor's,20,Analyst,52,53,57,95,0,3,No,1 Month,116617,No
+195,24,PhD,11,Project Manager,94,56,64,72,7,4,No,Immediate,61517,No
+196,40,High School,32,Software Engineer,76,75,52,69,9,0,No,3 Months,71683,No
+197,41,Bachelor's,3,Analyst,84,96,96,87,3,0,Yes,Immediate,66876,Yes
+198,53,Bachelor's,6,Data Scientist,80,99,62,74,2,2,Yes,Immediate,106354,Yes
+199,28,Master's,21,Data Scientist,64,61,90,77,6,3,No,Immediate,123802,No
+200,54,High School,32,Analyst,65,80,83,54,1,4,Yes,Immediate,126719,No
+201,39,High School,16,Data Scientist,62,66,73,70,7,1,Yes,Immediate,136602,No
+202,22,High School,23,Analyst,98,82,89,67,5,0,No,1 Month,128413,No
+203,32,High School,33,Project Manager,84,60,81,96,6,4,Yes,3 Months,59982,No
+204,49,High School,27,Analyst,60,77,81,55,4,1,No,3 Months,124504,No
+205,46,Bachelor's,21,Project Manager,70,81,79,78,8,3,No,Immediate,76598,No
+206,44,Bachelor's,16,Software Engineer,100,50,98,68,4,3,No,1 Month,64639,No
+207,52,Bachelor's,33,Analyst,60,96,62,82,4,4,No,Immediate,120210,No
+208,51,Bachelor's,5,Software Engineer,79,77,50,50,2,1,No,Immediate,119852,No
+209,56,High School,5,Data Scientist,97,91,83,94,0,3,No,Immediate,59695,No
+210,28,Bachelor's,33,Project Manager,84,56,64,52,1,4,Yes,Immediate,98582,No
+211,37,Bachelor's,0,Analyst,71,51,93,91,7,3,Yes,Immediate,81094,Yes
+212,47,Master's,9,Software Engineer,87,91,63,70,0,3,No,Immediate,110635,No
+213,23,High School,20,Project Manager,80,73,78,84,6,3,No,1 Month,72187,No
+214,22,Bachelor's,4,Project Manager,63,53,83,90,4,2,Yes,3 Months,51214,No
+215,33,Bachelor's,1,Data Scientist,73,93,67,89,2,1,Yes,Immediate,73940,Yes
+216,26,Master's,21,Data Scientist,99,68,56,52,6,4,Yes,3 Months,94406,No
+217,58,Master's,1,Project Manager,98,75,78,74,8,4,Yes,1 Month,141221,No
+218,53,Bachelor's,9,Project Manager,81,60,80,94,1,1,No,1 Month,93481,No
+219,30,Bachelor's,33,Analyst,85,89,74,87,7,1,No,1 Month,65977,No
+220,56,Master's,15,Project Manager,81,99,87,94,8,1,Yes,Immediate,94839,Yes
+221,40,High School,21,Analyst,64,92,63,69,2,1,Yes,3 Months,107874,No
+222,37,Bachelor's,11,Project Manager,92,60,57,93,1,0,Yes,1 Month,108414,Yes
+223,24,Bachelor's,23,Data Scientist,84,94,76,94,6,4,No,3 Months,75538,No
+224,41,Bachelor's,9,Analyst,52,52,51,83,4,0,Yes,1 Month,106241,No
+225,45,PhD,34,Software Engineer,65,61,66,70,4,3,Yes,3 Months,123501,No
+226,54,Master's,31,Data Scientist,54,52,86,97,9,3,Yes,1 Month,125133,No
+227,45,Bachelor's,6,Analyst,70,91,63,72,4,4,Yes,Immediate,110481,No
+228,32,Bachelor's,20,Analyst,59,76,74,55,3,3,Yes,Immediate,77740,No
+229,29,PhD,19,Software Engineer,68,98,79,100,4,1,Yes,Immediate,113328,Yes
+230,57,Master's,25,Analyst,74,51,78,62,3,0,Yes,Immediate,122105,No
+231,59,Bachelor's,3,Project Manager,53,98,69,98,5,1,Yes,Immediate,100643,No
+232,41,Master's,21,Software Engineer,78,65,70,72,3,3,Yes,3 Months,61881,No
+233,56,PhD,14,Data Scientist,68,51,71,58,1,0,No,1 Month,86996,No
+234,46,Master's,20,Data Scientist,92,79,84,66,8,1,No,3 Months,82177,No
+235,56,High School,14,Project Manager,51,69,86,51,1,4,No,3 Months,87177,No
+236,46,Bachelor's,21,Data Scientist,59,87,65,68,8,1,No,1 Month,116126,No
+237,50,Master's,27,Analyst,92,77,99,68,9,3,Yes,3 Months,106531,No
+238,39,Bachelor's,13,Analyst,74,74,98,56,5,0,Yes,1 Month,76119,Yes
+239,39,Master's,26,Project Manager,69,81,92,91,8,4,Yes,3 Months,77915,No
+240,23,Bachelor's,27,Data Scientist,97,59,66,91,8,0,No,Immediate,52708,No
+241,56,High School,25,Data Scientist,68,91,65,69,2,4,No,Immediate,88749,No
+242,37,Bachelor's,1,Project Manager,72,89,51,58,0,0,Yes,Immediate,94989,No
+243,57,High School,24,Software Engineer,73,82,53,66,0,3,Yes,1 Month,72106,No
+244,54,PhD,2,Data Scientist,60,62,70,76,2,4,Yes,1 Month,67131,No
+245,25,Master's,7,Software Engineer,95,90,88,96,4,2,No,Immediate,96553,No
+246,54,Master's,32,Data Scientist,83,91,83,51,2,0,Yes,Immediate,108144,Yes
+247,35,Bachelor's,34,Data Scientist,77,96,79,85,8,0,Yes,3 Months,56553,No
+248,42,Bachelor's,5,Data Scientist,54,86,55,68,8,1,Yes,1 Month,67881,No
+249,41,Bachelor's,22,Data Scientist,54,65,66,66,2,4,Yes,Immediate,51379,No
+250,29,Bachelor's,24,Analyst,100,94,88,54,2,2,No,1 Month,140791,No
+251,28,Bachelor's,18,Software Engineer,70,71,74,88,4,3,Yes,1 Month,119306,No
+252,24,Bachelor's,4,Software Engineer,61,69,54,67,1,1,No,3 Months,69726,No
+253,38,Bachelor's,10,Data Scientist,99,99,54,56,5,2,Yes,Immediate,59088,Yes
+254,54,Bachelor's,11,Data Scientist,53,92,69,66,6,4,No,Immediate,84314,No
+255,33,PhD,9,Software Engineer,98,76,65,88,8,2,No,Immediate,105041,No
+256,43,Master's,7,Analyst,91,90,100,85,5,0,Yes,Immediate,66350,Yes
+257,43,Bachelor's,23,Project Manager,69,65,90,89,2,0,Yes,3 Months,149599,No
+258,51,Bachelor's,27,Project Manager,87,83,86,94,4,1,No,Immediate,131397,No
+259,59,Master's,20,Software Engineer,74,81,89,53,3,4,Yes,3 Months,129509,No
+260,59,High School,7,Data Scientist,63,75,58,87,4,4,No,Immediate,67769,No
+261,29,Master's,8,Data Scientist,60,74,54,74,7,2,No,3 Months,97249,No
+262,48,Master's,14,Analyst,81,51,91,54,7,1,No,Immediate,132862,No
+263,48,Bachelor's,17,Project Manager,60,61,51,79,5,4,Yes,3 Months,96365,No
+264,55,Bachelor's,19,Analyst,67,89,58,61,0,0,Yes,3 Months,100185,No
+265,42,Bachelor's,5,Project Manager,76,58,92,53,7,2,Yes,3 Months,52786,No
+266,51,Bachelor's,11,Software Engineer,67,61,85,73,7,3,Yes,Immediate,51620,No
+267,54,High School,1,Project Manager,72,75,71,78,1,0,No,Immediate,86303,No
+268,49,Master's,6,Analyst,60,58,71,58,3,1,No,1 Month,69589,No
+269,54,High School,15,Analyst,70,59,71,53,1,4,Yes,Immediate,52882,No
+270,26,Bachelor's,2,Analyst,93,81,83,100,3,0,No,Immediate,112248,No
+271,40,Master's,2,Software Engineer,54,83,78,73,9,3,Yes,Immediate,99322,No
+272,25,Master's,26,Project Manager,72,97,87,63,6,3,Yes,1 Month,74524,Yes
+273,56,Bachelor's,32,Project Manager,90,69,95,54,8,1,No,1 Month,59745,No
+274,38,Bachelor's,27,Analyst,74,88,82,67,7,0,No,Immediate,65861,No
+275,49,High School,0,Project Manager,90,51,67,91,8,2,Yes,Immediate,141707,No
+276,51,Bachelor's,7,Data Scientist,59,50,56,68,7,0,No,Immediate,141735,No
+277,50,High School,31,Data Scientist,71,100,50,61,1,3,Yes,1 Month,104261,No
+278,27,Bachelor's,3,Data Scientist,68,85,82,67,6,1,Yes,Immediate,52837,No
+279,56,PhD,29,Project Manager,50,73,50,66,1,1,Yes,Immediate,124135,No
+280,58,Bachelor's,5,Software Engineer,56,76,73,79,1,2,No,3 Months,131447,No
+281,45,Master's,18,Software Engineer,53,51,53,73,3,1,Yes,3 Months,104380,No
+282,50,PhD,31,Software Engineer,50,80,53,60,0,1,Yes,3 Months,136089,No
+283,52,High School,8,Software Engineer,64,63,67,84,4,1,Yes,3 Months,99831,No
+284,56,Master's,11,Data Scientist,89,51,76,72,5,1,No,Immediate,139349,No
+285,54,Bachelor's,10,Data Scientist,61,78,92,66,8,1,Yes,1 Month,88255,No
+286,42,Master's,15,Analyst,71,64,81,50,9,3,Yes,Immediate,79520,No
+287,53,Bachelor's,0,Project Manager,71,61,82,64,7,0,Yes,1 Month,79541,No
+288,44,Bachelor's,20,Project Manager,99,86,77,81,1,4,Yes,Immediate,115772,Yes
+289,54,Bachelor's,29,Software Engineer,96,77,91,58,0,1,No,1 Month,77350,No
+290,24,Master's,12,Data Scientist,66,69,90,64,1,4,Yes,1 Month,94397,No
+291,39,Master's,33,Software Engineer,78,88,85,77,6,4,No,Immediate,127085,No
+292,46,Bachelor's,3,Analyst,95,73,55,73,3,3,Yes,1 Month,113865,Yes
+293,52,Master's,27,Project Manager,63,70,65,84,9,1,No,Immediate,105956,No
+294,24,Bachelor's,30,Project Manager,99,59,83,71,4,4,Yes,Immediate,77453,Yes
+295,45,Bachelor's,26,Software Engineer,69,95,72,76,6,1,Yes,Immediate,112345,Yes
+296,53,Bachelor's,4,Analyst,99,63,99,68,2,2,Yes,Immediate,62906,Yes
+297,43,Bachelor's,24,Project Manager,97,86,91,94,9,2,No,Immediate,64988,No
+298,44,Bachelor's,2,Analyst,82,67,73,61,1,2,No,3 Months,77723,No
+299,23,Master's,32,Analyst,92,73,98,69,6,4,Yes,Immediate,83800,Yes
+300,48,Bachelor's,3,Software Engineer,64,63,62,50,4,2,No,Immediate,89107,No
+301,23,Bachelor's,24,Data Scientist,61,83,67,70,0,3,Yes,Immediate,77430,No
+302,47,Bachelor's,19,Software Engineer,89,61,62,98,0,3,Yes,1 Month,82535,Yes
+303,38,Master's,33,Data Scientist,69,71,98,94,8,4,Yes,1 Month,118476,Yes
+304,54,PhD,25,Analyst,79,55,86,50,4,1,Yes,1 Month,137329,No
+305,30,Bachelor's,4,Data Scientist,87,85,92,59,0,0,No,1 Month,127798,No
+306,50,Master's,34,Analyst,52,94,88,96,6,1,Yes,3 Months,102284,No
+307,47,High School,27,Project Manager,77,85,91,81,8,1,Yes,3 Months,106232,No
+308,56,Master's,28,Project Manager,75,71,66,88,0,1,Yes,1 Month,94420,No
+309,46,Bachelor's,8,Project Manager,79,63,64,71,9,1,Yes,Immediate,87710,No
+310,45,Master's,5,Software Engineer,62,65,67,67,3,0,Yes,1 Month,122497,No
+311,34,High School,18,Software Engineer,62,85,72,97,2,2,Yes,1 Month,142035,No
+312,28,Bachelor's,10,Analyst,51,74,100,95,4,1,Yes,1 Month,90498,No
+313,57,Master's,1,Project Manager,86,81,79,81,6,3,Yes,3 Months,81283,No
+314,41,Bachelor's,8,Software Engineer,98,82,83,76,7,4,Yes,1 Month,116169,Yes
+315,22,Bachelor's,20,Project Manager,87,94,53,77,1,4,Yes,3 Months,122358,No
+316,29,High School,23,Software Engineer,51,85,52,67,6,3,Yes,Immediate,112457,No
+317,37,Bachelor's,33,Data Scientist,85,69,56,88,0,1,Yes,Immediate,75968,Yes
+318,35,Bachelor's,21,Data Scientist,75,67,67,98,6,0,Yes,Immediate,112508,Yes
+319,33,Bachelor's,2,Project Manager,60,87,91,78,7,2,Yes,3 Months,113220,No
+320,44,Bachelor's,11,Analyst,57,52,56,67,1,4,Yes,3 Months,135366,No
+321,36,High School,27,Software Engineer,93,72,89,93,8,2,Yes,1 Month,55738,Yes
+322,49,Master's,29,Software Engineer,89,81,55,57,0,0,Yes,1 Month,53098,No
+323,55,Bachelor's,25,Data Scientist,92,94,71,80,5,4,Yes,1 Month,145424,No
+324,23,Bachelor's,20,Data Scientist,71,65,50,83,0,2,Yes,3 Months,123633,No
+325,53,High School,27,Analyst,69,54,53,56,2,0,No,3 Months,128672,No
+326,44,Bachelor's,25,Analyst,57,53,95,85,5,2,Yes,1 Month,88244,No
+327,43,Master's,32,Analyst,78,70,98,67,2,1,Yes,1 Month,58253,Yes
+328,46,Bachelor's,20,Project Manager,89,89,99,87,7,0,No,Immediate,104333,No
+329,43,Bachelor's,34,Data Scientist,75,100,92,58,4,2,Yes,1 Month,100969,Yes
+330,43,Master's,33,Project Manager,79,63,78,58,1,1,No,Immediate,140744,No
+331,27,Master's,17,Data Scientist,66,88,70,95,3,1,Yes,Immediate,120423,No
+332,36,Bachelor's,10,Data Scientist,69,80,75,57,8,0,No,3 Months,94411,No
+333,58,Master's,22,Software Engineer,65,63,63,100,3,3,Yes,1 Month,125028,No
+334,54,Master's,21,Data Scientist,95,55,58,84,9,4,Yes,3 Months,85421,No
+335,29,Bachelor's,16,Data Scientist,92,61,96,67,9,0,No,Immediate,51454,No
+336,26,Master's,4,Project Manager,56,65,61,54,7,1,Yes,Immediate,67522,No
+337,25,Master's,10,Data Scientist,65,66,91,63,4,1,Yes,Immediate,88575,No
+338,27,Bachelor's,29,Project Manager,94,94,100,77,9,0,No,Immediate,53192,No
+339,53,High School,14,Analyst,96,72,100,79,0,3,Yes,Immediate,105268,Yes
+340,51,High School,26,Data Scientist,97,63,55,53,6,4,Yes,Immediate,131311,No
+341,56,Master's,34,Data Scientist,76,56,69,88,2,2,Yes,Immediate,60402,No
+342,37,PhD,32,Project Manager,72,95,73,69,9,0,Yes,Immediate,128610,No
+343,34,Bachelor's,19,Analyst,73,81,76,74,7,4,No,Immediate,130781,No
+344,51,Bachelor's,15,Software Engineer,58,64,87,77,2,4,No,1 Month,86527,No
+345,40,Bachelor's,33,Analyst,84,93,57,61,0,1,Yes,Immediate,102181,Yes
+346,38,Bachelor's,1,Project Manager,100,66,50,51,4,2,Yes,1 Month,141472,No
+347,40,Bachelor's,34,Analyst,69,90,98,92,1,0,Yes,1 Month,77002,Yes
+348,49,High School,27,Project Manager,86,96,98,63,3,1,Yes,Immediate,131219,No
+349,47,Master's,5,Project Manager,91,93,73,71,0,1,No,3 Months,62460,No
+350,58,Bachelor's,8,Software Engineer,66,83,96,80,8,3,Yes,1 Month,80482,Yes
+351,47,Master's,19,Data Scientist,96,54,56,72,5,4,Yes,1 Month,66447,No
+352,44,Bachelor's,0,Project Manager,80,94,68,97,7,0,No,Immediate,98228,No
+353,30,High School,7,Project Manager,57,76,71,69,3,0,No,1 Month,133265,No
+354,33,Bachelor's,22,Software Engineer,64,72,84,87,8,0,Yes,3 Months,100126,No
+355,22,Bachelor's,2,Project Manager,80,89,79,53,1,1,Yes,Immediate,70545,Yes
+356,22,Master's,3,Data Scientist,79,63,78,64,8,3,Yes,Immediate,105114,No
+357,55,Bachelor's,24,Software Engineer,95,64,71,73,4,2,No,Immediate,143740,No
+358,53,Master's,14,Data Scientist,69,92,60,74,5,1,Yes,1 Month,125350,No
+359,46,Bachelor's,20,Data Scientist,88,82,69,50,2,2,Yes,Immediate,107801,Yes
+360,22,Master's,34,Software Engineer,61,80,78,56,3,3,Yes,1 Month,63890,No
+361,37,Bachelor's,13,Project Manager,98,84,100,80,5,4,Yes,Immediate,102482,Yes
+362,26,Master's,11,Data Scientist,66,66,90,61,6,0,Yes,3 Months,113397,No
+363,43,Master's,16,Data Scientist,91,77,91,91,0,2,No,Immediate,51740,No
+364,50,Bachelor's,8,Data Scientist,79,68,83,54,6,1,No,Immediate,80121,No
+365,24,Bachelor's,34,Data Scientist,78,95,50,93,0,2,No,1 Month,61218,No
+366,33,Master's,12,Software Engineer,68,72,80,99,4,4,Yes,Immediate,121591,No
+367,47,PhD,14,Software Engineer,95,81,79,91,5,0,No,Immediate,138241,No
+368,37,High School,17,Analyst,60,89,97,87,1,2,No,Immediate,84722,No
+369,58,Master's,32,Analyst,83,62,67,61,9,4,Yes,1 Month,99431,No
+370,43,Master's,5,Data Scientist,99,69,66,88,8,1,Yes,3 Months,101543,No
+371,50,Master's,26,Project Manager,56,84,87,67,9,3,Yes,3 Months,92000,No
+372,35,PhD,22,Data Scientist,93,54,63,51,5,1,No,Immediate,121975,No
+373,49,Master's,26,Project Manager,83,58,72,59,6,0,Yes,Immediate,80921,No
+374,26,Bachelor's,33,Data Scientist,69,78,74,64,9,1,No,1 Month,149265,No
+375,51,Bachelor's,13,Analyst,99,55,64,79,7,1,Yes,1 Month,138747,No
+376,26,Bachelor's,7,Analyst,87,74,95,93,9,1,No,Immediate,80614,No
+377,33,Master's,34,Project Manager,73,80,71,66,0,1,Yes,Immediate,111189,No
+378,37,Master's,18,Data Scientist,59,71,52,53,7,0,No,Immediate,67601,No
+379,47,Bachelor's,29,Project Manager,81,51,68,56,3,4,Yes,1 Month,143332,No
+380,47,Master's,13,Analyst,64,94,93,90,9,2,No,Immediate,121543,No
+381,42,Master's,19,Data Scientist,86,54,83,80,7,3,Yes,3 Months,70514,No
+382,57,Bachelor's,24,Data Scientist,69,76,84,100,5,2,Yes,Immediate,133312,No
+383,54,Bachelor's,23,Project Manager,52,74,99,88,8,2,Yes,Immediate,117612,No
+384,51,Bachelor's,13,Software Engineer,86,57,50,83,3,3,Yes,Immediate,140886,No
+385,58,Bachelor's,25,Project Manager,89,50,70,55,1,0,Yes,Immediate,66292,No
+386,44,Bachelor's,22,Analyst,57,69,78,99,1,3,Yes,Immediate,81510,No
+387,31,High School,21,Analyst,89,93,55,87,4,0,No,Immediate,78000,No
+388,26,Bachelor's,18,Analyst,93,72,86,94,9,2,Yes,Immediate,80383,Yes
+389,57,Bachelor's,2,Analyst,72,81,50,100,8,0,Yes,Immediate,61785,No
+390,55,Bachelor's,18,Analyst,89,60,100,83,2,4,Yes,Immediate,90910,Yes
+391,52,High School,8,Software Engineer,60,88,50,93,7,3,Yes,3 Months,89028,No
+392,31,Master's,27,Data Scientist,95,96,76,64,3,4,No,1 Month,74855,No
+393,40,Bachelor's,19,Project Manager,57,73,70,63,5,2,Yes,1 Month,74281,No
+394,53,Master's,6,Project Manager,78,60,65,55,9,3,No,Immediate,54841,No
+395,22,PhD,13,Analyst,79,78,93,99,5,2,Yes,Immediate,147204,No
+396,26,Bachelor's,8,Project Manager,59,75,89,86,2,4,Yes,Immediate,110155,No
+397,25,Bachelor's,18,Analyst,88,65,75,99,4,2,No,1 Month,76918,No
+398,37,High School,13,Software Engineer,77,84,65,81,2,3,Yes,Immediate,106313,Yes
+399,45,Bachelor's,16,Software Engineer,98,69,77,52,0,3,Yes,Immediate,67443,Yes
+400,37,Bachelor's,29,Data Scientist,85,95,50,52,6,2,Yes,1 Month,82250,No
+401,23,Bachelor's,8,Software Engineer,62,52,85,71,3,3,No,Immediate,51922,No
+402,49,Bachelor's,32,Software Engineer,81,50,59,71,6,3,Yes,Immediate,81976,No
+403,53,Bachelor's,24,Data Scientist,85,96,92,59,2,2,Yes,Immediate,61991,Yes
+404,48,Bachelor's,13,Project Manager,86,50,66,100,4,4,Yes,1 Month,103744,Yes
+405,41,Bachelor's,10,Analyst,75,66,72,52,4,3,Yes,1 Month,72733,No
+406,45,Bachelor's,34,Analyst,71,51,56,61,1,3,No,Immediate,52473,No
+407,33,Bachelor's,13,Project Manager,53,78,93,78,9,3,Yes,Immediate,58108,No
+408,56,Bachelor's,29,Data Scientist,80,69,56,97,1,3,Yes,1 Month,78715,Yes
+409,54,PhD,3,Project Manager,67,55,93,66,3,2,No,Immediate,82210,No
+410,54,Bachelor's,3,Software Engineer,87,57,64,56,3,4,Yes,1 Month,87317,No
+411,58,Bachelor's,27,Data Scientist,73,78,83,62,3,4,Yes,1 Month,115516,No
+412,33,Bachelor's,7,Data Scientist,72,97,95,51,5,0,Yes,Immediate,83362,Yes
+413,24,Bachelor's,1,Data Scientist,71,100,94,53,1,3,Yes,Immediate,104604,Yes
+414,22,PhD,21,Analyst,51,82,53,59,5,3,Yes,1 Month,54889,No
+415,54,Master's,15,Project Manager,80,52,63,88,6,0,Yes,Immediate,139557,No
+416,31,Bachelor's,28,Data Scientist,60,84,63,73,9,4,Yes,Immediate,123748,No
+417,50,Master's,29,Data Scientist,77,54,65,66,2,1,Yes,1 Month,81971,No
+418,34,PhD,11,Data Scientist,95,76,56,55,7,1,Yes,Immediate,100551,Yes
+419,33,Master's,34,Project Manager,81,93,81,68,1,4,Yes,Immediate,53201,Yes
+420,52,Master's,10,Analyst,54,61,68,54,7,3,Yes,Immediate,139882,No
+421,23,Master's,20,Software Engineer,87,69,51,81,4,1,No,1 Month,87958,No
+422,56,Bachelor's,20,Analyst,59,94,59,59,1,2,Yes,Immediate,129251,No
+423,44,Bachelor's,4,Data Scientist,89,69,99,58,6,2,No,3 Months,55681,No
+424,38,Bachelor's,19,Analyst,95,58,66,76,1,0,Yes,1 Month,96870,Yes
+425,47,High School,2,Analyst,73,88,86,62,5,4,No,Immediate,132256,No
+426,29,Bachelor's,32,Software Engineer,84,53,61,68,9,4,No,Immediate,117203,No
+427,50,Bachelor's,8,Project Manager,93,100,55,70,2,1,Yes,Immediate,78152,Yes
+428,47,Bachelor's,8,Project Manager,97,68,71,73,8,3,Yes,1 Month,100061,Yes
+429,31,Master's,3,Analyst,72,87,81,87,2,4,Yes,3 Months,107619,No
+430,47,Master's,34,Analyst,66,76,90,53,2,1,Yes,1 Month,108235,No
+431,55,High School,16,Project Manager,50,94,69,73,4,1,Yes,Immediate,123740,No
+432,28,Bachelor's,33,Project Manager,80,92,50,84,6,4,No,1 Month,87890,No
+433,25,Master's,23,Software Engineer,80,62,96,52,7,1,Yes,Immediate,140073,No
+434,32,High School,31,Data Scientist,91,62,55,53,6,0,Yes,1 Month,111401,No
+435,50,Master's,0,Analyst,91,71,68,86,8,0,Yes,1 Month,61217,Yes
+436,57,Bachelor's,7,Project Manager,83,77,67,89,4,4,Yes,Immediate,98351,Yes
+437,46,Bachelor's,22,Analyst,58,96,55,97,9,3,No,Immediate,83741,No
+438,42,PhD,11,Analyst,71,94,94,84,2,0,No,1 Month,70654,No
+439,57,Bachelor's,11,Project Manager,62,71,82,80,5,0,Yes,1 Month,111314,No
+440,31,Bachelor's,14,Software Engineer,74,92,72,93,4,4,Yes,Immediate,51408,Yes
+441,58,Master's,18,Analyst,97,68,72,74,3,2,Yes,Immediate,92903,Yes
+442,30,High School,25,Software Engineer,67,57,75,89,1,1,No,1 Month,134208,No
+443,45,Bachelor's,28,Project Manager,100,57,62,62,6,0,Yes,Immediate,51218,Yes
+444,56,PhD,21,Data Scientist,61,91,56,53,4,2,Yes,Immediate,100572,No
+445,56,Bachelor's,20,Data Scientist,89,75,64,95,3,3,No,Immediate,108798,No
+446,57,Master's,19,Analyst,66,97,93,63,7,2,Yes,Immediate,80105,Yes
+447,39,Bachelor's,28,Project Manager,64,100,76,62,8,4,No,1 Month,119634,No
+448,53,Bachelor's,3,Software Engineer,91,75,75,76,8,3,Yes,3 Months,115063,No
+449,45,Bachelor's,6,Analyst,64,72,82,55,2,3,No,1 Month,57619,No
+450,44,Bachelor's,27,Project Manager,64,92,64,66,2,2,Yes,Immediate,61939,No
+451,53,Master's,27,Project Manager,88,62,85,85,4,4,Yes,1 Month,68226,Yes
+452,58,Master's,3,Software Engineer,62,77,94,89,4,0,Yes,Immediate,75322,Yes
+453,33,Bachelor's,21,Analyst,66,58,76,98,9,2,No,Immediate,108215,No
+454,34,Master's,11,Project Manager,81,69,54,84,1,0,Yes,3 Months,66878,No
+455,44,Bachelor's,2,Project Manager,58,68,51,66,0,2,Yes,Immediate,56560,No
+456,46,Bachelor's,21,Project Manager,89,97,82,90,7,0,Yes,3 Months,88278,No
+457,56,Bachelor's,1,Software Engineer,69,88,65,51,2,2,Yes,Immediate,86212,No
+458,51,Bachelor's,23,Analyst,75,100,72,62,0,3,Yes,1 Month,144835,No
+459,38,Bachelor's,33,Analyst,76,61,87,51,0,1,No,Immediate,123079,No
+460,41,Master's,26,Analyst,70,64,65,77,1,3,Yes,Immediate,73946,No
+461,46,Bachelor's,0,Analyst,67,80,63,92,5,0,Yes,Immediate,81740,No
+462,43,High School,7,Data Scientist,62,63,78,75,5,4,Yes,3 Months,57253,No
+463,34,Bachelor's,22,Data Scientist,65,60,75,71,2,3,Yes,1 Month,129311,No
+464,40,Bachelor's,5,Analyst,58,75,84,96,3,1,Yes,3 Months,82813,No
+465,57,Master's,21,Software Engineer,61,91,64,92,1,0,Yes,1 Month,114331,No
+466,33,Bachelor's,24,Data Scientist,93,76,52,52,1,3,Yes,3 Months,77632,No
+467,40,Bachelor's,17,Project Manager,87,60,72,84,6,2,Yes,Immediate,98365,Yes
+468,33,Bachelor's,16,Data Scientist,68,87,78,61,0,4,No,Immediate,117593,No
+469,30,Bachelor's,11,Project Manager,56,83,83,73,6,0,Yes,1 Month,83431,No
+470,28,Bachelor's,5,Analyst,84,92,82,54,0,3,Yes,1 Month,87436,Yes
+471,49,Bachelor's,25,Data Scientist,97,68,90,69,5,0,No,1 Month,68413,No
+472,35,Master's,26,Software Engineer,67,55,90,88,2,2,No,Immediate,145761,No
+473,52,Master's,7,Data Scientist,65,95,72,88,7,1,Yes,Immediate,88485,Yes
+474,40,Bachelor's,18,Data Scientist,88,87,56,62,5,3,Yes,3 Months,118232,No
+475,37,High School,0,Data Scientist,53,98,52,90,1,0,No,1 Month,66101,No
+476,26,Bachelor's,28,Analyst,74,91,81,94,7,0,Yes,Immediate,58831,Yes
+477,56,High School,34,Software Engineer,81,77,80,61,4,0,Yes,1 Month,134583,No
+478,33,Bachelor's,13,Data Scientist,89,50,67,62,7,1,Yes,3 Months,101897,No
+479,46,Bachelor's,34,Software Engineer,62,84,92,59,7,0,Yes,Immediate,55004,No
+480,42,Bachelor's,19,Analyst,94,89,56,82,5,4,Yes,3 Months,138241,No
+481,57,Bachelor's,12,Project Manager,66,57,90,89,1,4,No,3 Months,95924,No
+482,44,High School,7,Data Scientist,98,96,50,65,7,0,Yes,3 Months,71509,No
+483,37,Bachelor's,19,Software Engineer,86,56,63,94,5,4,Yes,3 Months,87170,No
+484,35,Bachelor's,32,Software Engineer,55,60,81,84,5,3,Yes,1 Month,93555,No
+485,52,Bachelor's,25,Analyst,68,88,55,52,7,4,Yes,Immediate,64662,No
+486,26,Bachelor's,20,Data Scientist,62,53,88,54,0,0,No,Immediate,115930,No
+487,56,Master's,8,Project Manager,75,74,59,75,1,2,Yes,Immediate,97403,No
+488,44,Bachelor's,23,Software Engineer,63,61,56,60,8,3,No,Immediate,86365,No
+489,50,PhD,16,Data Scientist,80,75,75,56,7,1,Yes,Immediate,112188,No
+490,32,Bachelor's,23,Project Manager,53,87,83,59,6,0,Yes,Immediate,126060,No
+491,39,Master's,20,Software Engineer,88,95,79,91,6,1,No,Immediate,148633,No
+492,33,Bachelor's,12,Software Engineer,57,61,85,83,4,2,Yes,Immediate,76673,No
+493,30,Master's,10,Project Manager,74,92,70,52,1,1,Yes,3 Months,113471,No
+494,31,Master's,18,Project Manager,62,100,66,57,5,0,No,Immediate,67156,No
+495,38,Bachelor's,10,Analyst,81,86,82,80,9,0,Yes,1 Month,107287,Yes
+496,59,Bachelor's,12,Data Scientist,87,95,59,60,2,2,No,1 Month,51645,No
+497,28,Bachelor's,0,Data Scientist,87,73,100,94,3,0,No,Immediate,109076,No
+498,34,Bachelor's,18,Analyst,77,65,96,56,9,2,Yes,3 Months,144585,No
+499,30,High School,11,Software Engineer,79,62,91,94,1,2,Yes,1 Month,125351,No
+500,48,Bachelor's,7,Project Manager,52,74,100,51,1,0,Yes,Immediate,100151,No
+501,23,Bachelor's,7,Project Manager,77,53,61,55,7,4,Yes,Immediate,117384,No
+502,26,Bachelor's,11,Project Manager,52,60,65,90,7,2,No,Immediate,149865,No
+503,50,Master's,32,Software Engineer,94,81,90,81,9,0,No,Immediate,83541,No
+504,58,Bachelor's,25,Project Manager,83,98,81,69,5,4,Yes,Immediate,122847,No
+505,59,PhD,27,Project Manager,65,56,64,83,4,2,Yes,1 Month,137099,No
+506,40,Bachelor's,4,Analyst,71,95,76,99,7,4,Yes,3 Months,130739,No
+507,29,Bachelor's,7,Software Engineer,81,60,77,65,3,3,Yes,1 Month,100955,No
+508,22,Bachelor's,24,Data Scientist,87,77,66,74,3,3,No,Immediate,59290,No
+509,43,Bachelor's,26,Analyst,57,90,95,61,4,4,Yes,Immediate,108942,No
+510,38,Master's,22,Analyst,57,72,99,56,0,2,No,Immediate,132667,No
+511,28,Bachelor's,29,Data Scientist,55,94,51,88,0,0,Yes,Immediate,80143,No
+512,46,Master's,22,Analyst,63,72,85,66,1,1,No,Immediate,74509,No
+513,25,Bachelor's,19,Software Engineer,81,99,99,94,7,0,Yes,3 Months,137780,No
+514,57,Bachelor's,17,Project Manager,84,77,56,60,6,1,Yes,Immediate,86741,No
+515,27,Bachelor's,17,Software Engineer,59,92,62,55,9,1,Yes,3 Months,76898,No
+516,52,Bachelor's,1,Data Scientist,52,96,64,72,8,2,No,Immediate,149919,No
+517,40,Bachelor's,3,Data Scientist,61,75,74,76,4,4,Yes,3 Months,135674,No
+518,48,Bachelor's,29,Analyst,98,74,72,95,1,0,Yes,1 Month,112948,Yes
+519,31,High School,32,Software Engineer,80,78,71,55,6,4,Yes,1 Month,111768,No
+520,47,Bachelor's,17,Software Engineer,78,68,75,87,7,3,Yes,Immediate,93262,Yes
+521,40,High School,18,Data Scientist,54,82,82,51,6,2,Yes,3 Months,55506,No
+522,24,Bachelor's,27,Software Engineer,74,85,60,71,6,2,No,3 Months,70605,No
+523,34,Bachelor's,19,Data Scientist,90,63,59,69,4,3,Yes,1 Month,128590,No
+524,49,Bachelor's,32,Software Engineer,80,63,74,74,1,0,Yes,1 Month,78231,No
+525,41,Bachelor's,11,Software Engineer,70,84,86,64,5,3,Yes,1 Month,129397,No
+526,49,High School,14,Software Engineer,69,79,97,98,3,0,Yes,Immediate,127123,No
+527,29,Bachelor's,1,Data Scientist,88,77,92,78,9,1,Yes,1 Month,63515,Yes
+528,22,Bachelor's,28,Analyst,71,66,87,57,1,2,Yes,3 Months,137211,No
+529,24,Bachelor's,9,Software Engineer,53,52,90,86,8,0,Yes,Immediate,88622,No
+530,34,Master's,1,Data Scientist,62,65,94,98,6,4,Yes,Immediate,66600,Yes
+531,49,High School,10,Data Scientist,94,95,73,82,5,4,No,Immediate,77892,No
+532,46,Bachelor's,12,Software Engineer,91,79,89,71,4,2,Yes,1 Month,133279,No
+533,54,Bachelor's,9,Software Engineer,99,78,95,99,2,3,No,Immediate,119310,No
+534,59,Bachelor's,13,Analyst,98,94,82,96,9,3,Yes,Immediate,71801,Yes
+535,27,Bachelor's,17,Data Scientist,69,64,66,54,9,0,Yes,Immediate,87695,No
+536,53,Bachelor's,8,Data Scientist,62,95,73,88,3,3,Yes,1 Month,78853,Yes
+537,42,Master's,27,Project Manager,66,74,86,67,2,2,Yes,Immediate,54429,No
+538,37,Bachelor's,2,Data Scientist,85,100,51,87,7,0,No,1 Month,54606,No
+539,42,Bachelor's,19,Analyst,82,87,81,86,2,1,No,Immediate,54478,No
+540,32,Bachelor's,5,Project Manager,50,91,73,79,6,3,Yes,1 Month,133816,No
+541,58,Bachelor's,26,Project Manager,64,96,58,100,6,3,Yes,3 Months,90134,No
+542,57,Bachelor's,1,Project Manager,62,87,53,80,6,0,Yes,Immediate,119963,No
+543,56,Bachelor's,28,Software Engineer,66,72,66,59,6,4,Yes,Immediate,120897,No
+544,40,Bachelor's,2,Software Engineer,73,74,66,64,1,3,Yes,3 Months,75475,No
+545,41,Master's,15,Data Scientist,57,91,99,91,9,2,No,Immediate,116177,No
+546,39,Bachelor's,29,Project Manager,99,56,97,97,2,3,No,Immediate,71730,No
+547,35,Bachelor's,1,Analyst,76,71,79,93,9,1,No,3 Months,71113,No
+548,36,Bachelor's,16,Software Engineer,94,66,89,67,8,3,No,3 Months,70011,No
+549,52,Bachelor's,11,Analyst,72,67,60,72,2,4,Yes,1 Month,105746,No
+550,22,Bachelor's,34,Analyst,95,98,70,82,1,3,Yes,Immediate,92853,Yes
+551,24,Bachelor's,0,Software Engineer,57,90,70,65,8,0,Yes,Immediate,135195,No
+552,37,Master's,14,Software Engineer,57,59,67,87,9,3,Yes,Immediate,86818,No
+553,44,Master's,25,Software Engineer,75,59,78,84,8,4,Yes,1 Month,87321,No
+554,32,Bachelor's,20,Software Engineer,96,56,73,83,3,0,No,1 Month,71309,No
+555,33,Master's,30,Project Manager,62,97,59,77,8,2,No,3 Months,68688,No
+556,31,Bachelor's,24,Project Manager,88,99,94,51,2,0,No,Immediate,78176,No
+557,53,Bachelor's,22,Project Manager,86,87,66,79,6,1,No,1 Month,118879,No
+558,37,High School,23,Project Manager,98,76,67,62,6,0,No,Immediate,117592,No
+559,29,PhD,27,Data Scientist,77,82,91,90,7,2,Yes,Immediate,134728,No
+560,59,Bachelor's,20,Project Manager,74,50,97,65,9,3,No,1 Month,139012,No
+561,33,Bachelor's,17,Software Engineer,65,93,69,54,3,0,Yes,Immediate,59416,No
+562,45,High School,34,Analyst,51,83,86,77,2,0,Yes,1 Month,89994,No
+563,49,Bachelor's,8,Project Manager,67,53,94,88,2,0,No,1 Month,116422,No
+564,29,Bachelor's,29,Data Scientist,66,66,67,94,4,0,No,3 Months,58584,No
+565,49,Bachelor's,33,Software Engineer,79,53,66,69,0,2,Yes,1 Month,143302,No
+566,57,High School,31,Analyst,88,92,58,73,9,4,Yes,3 Months,68830,No
+567,47,Bachelor's,2,Analyst,62,75,63,76,2,4,Yes,1 Month,135825,No
+568,29,Bachelor's,2,Project Manager,81,53,98,79,5,0,Yes,Immediate,127066,No
+569,49,Bachelor's,27,Analyst,99,50,78,94,2,2,No,Immediate,53591,No
+570,49,Bachelor's,14,Project Manager,78,56,80,76,4,2,Yes,1 Month,143878,No
+571,58,Bachelor's,22,Project Manager,95,79,53,75,8,0,Yes,1 Month,71395,Yes
+572,57,Bachelor's,10,Software Engineer,79,99,67,56,1,1,Yes,1 Month,104182,Yes
+573,48,High School,31,Software Engineer,67,58,69,91,1,0,Yes,Immediate,66738,No
+574,38,Bachelor's,32,Data Scientist,62,84,96,96,5,1,Yes,Immediate,52631,Yes
+575,30,PhD,23,Software Engineer,92,57,92,87,5,0,No,Immediate,67905,No
+576,54,Bachelor's,33,Software Engineer,70,73,93,54,7,1,Yes,1 Month,69056,No
+577,41,Bachelor's,27,Project Manager,79,68,58,72,1,1,Yes,1 Month,139082,No
+578,34,Bachelor's,6,Software Engineer,70,85,62,77,8,0,Yes,1 Month,85447,No
+579,49,Bachelor's,3,Project Manager,97,99,64,83,1,1,Yes,Immediate,104418,Yes
+580,50,Bachelor's,0,Project Manager,66,92,76,64,0,3,No,Immediate,87190,No
+581,34,Bachelor's,0,Software Engineer,89,76,64,81,9,4,Yes,1 Month,76014,Yes
+582,56,Bachelor's,19,Data Scientist,68,81,77,75,1,2,No,1 Month,122999,No
+583,27,Bachelor's,18,Data Scientist,64,63,86,97,6,1,Yes,Immediate,100278,No
+584,39,Master's,28,Analyst,58,67,68,80,7,1,Yes,1 Month,51780,No
+585,26,Master's,9,Analyst,59,77,75,68,4,2,Yes,Immediate,141643,No
+586,46,Bachelor's,17,Software Engineer,93,78,75,58,5,1,Yes,1 Month,109258,Yes
+587,23,Bachelor's,27,Data Scientist,80,65,74,78,0,2,No,3 Months,147123,No
+588,31,Master's,34,Project Manager,72,84,75,100,5,0,Yes,1 Month,92192,Yes
+589,51,Bachelor's,30,Analyst,79,96,75,88,7,3,Yes,1 Month,109300,Yes
+590,26,Bachelor's,26,Project Manager,82,80,95,53,2,3,Yes,Immediate,140504,No
+591,54,PhD,10,Analyst,58,53,77,52,0,4,Yes,1 Month,149129,No
+592,22,Bachelor's,4,Software Engineer,96,86,98,78,3,1,No,1 Month,93923,No
+593,39,Bachelor's,7,Data Scientist,50,66,67,60,0,4,Yes,1 Month,139196,No
+594,53,PhD,33,Analyst,93,88,81,82,7,0,Yes,1 Month,52395,Yes
+595,32,Bachelor's,11,Data Scientist,84,97,52,87,4,3,No,Immediate,147384,No
+596,42,High School,0,Project Manager,60,95,51,60,0,0,Yes,3 Months,65779,No
+597,47,Bachelor's,30,Software Engineer,83,75,82,76,7,0,Yes,1 Month,121028,No
+598,46,Master's,3,Data Scientist,65,97,91,82,8,1,Yes,Immediate,79722,Yes
+599,43,Master's,4,Software Engineer,58,88,68,70,9,0,No,1 Month,57111,No
+600,48,Master's,29,Data Scientist,81,90,66,88,1,3,No,Immediate,59984,No
+601,34,Bachelor's,23,Project Manager,64,53,93,80,8,4,Yes,Immediate,147552,No
+602,54,Master's,2,Project Manager,61,79,82,87,7,3,Yes,Immediate,143176,No
+603,55,Master's,10,Software Engineer,82,79,61,95,6,1,No,1 Month,122328,No
+604,56,Bachelor's,3,Project Manager,94,71,98,51,2,3,Yes,3 Months,76924,No
+605,22,Master's,25,Analyst,63,60,52,76,1,2,Yes,1 Month,102703,No
+606,42,Master's,26,Data Scientist,57,51,92,85,6,4,Yes,1 Month,82577,No
+607,27,Bachelor's,26,Project Manager,57,93,98,60,4,2,No,Immediate,57711,No
+608,49,Bachelor's,5,Analyst,76,61,75,96,5,2,Yes,Immediate,135548,No
+609,38,Bachelor's,14,Software Engineer,61,79,84,67,3,1,Yes,Immediate,149869,No
+610,26,Bachelor's,29,Analyst,50,85,57,50,1,0,Yes,1 Month,54096,No
+611,52,Bachelor's,34,Software Engineer,92,67,85,84,8,2,Yes,3 Months,116555,No
+612,26,Bachelor's,22,Software Engineer,89,75,56,84,2,3,No,Immediate,139848,No
+613,59,Master's,5,Data Scientist,91,56,95,80,6,0,Yes,1 Month,125012,No
+614,24,PhD,3,Data Scientist,100,50,95,77,7,3,Yes,3 Months,58254,No
+615,44,Master's,17,Analyst,60,75,85,88,1,3,Yes,Immediate,147955,No
+616,58,High School,8,Data Scientist,88,72,65,50,5,0,Yes,1 Month,127120,No
+617,58,Bachelor's,28,Data Scientist,92,75,73,74,7,0,No,1 Month,55965,No
+618,31,Bachelor's,12,Data Scientist,80,94,50,92,6,3,Yes,1 Month,127000,No
+619,31,Bachelor's,16,Analyst,66,55,98,87,2,1,No,Immediate,127975,No
+620,40,Master's,31,Project Manager,82,55,74,69,0,4,Yes,1 Month,107987,No
+621,38,Master's,21,Data Scientist,81,93,59,52,5,4,Yes,1 Month,82963,No
+622,42,Bachelor's,3,Data Scientist,78,57,65,100,7,1,Yes,Immediate,143976,No
+623,35,Master's,4,Analyst,70,73,65,51,5,0,Yes,1 Month,53273,No
+624,30,Master's,12,Project Manager,70,71,57,67,4,3,Yes,Immediate,65330,No
+625,22,Bachelor's,33,Data Scientist,89,68,78,93,7,4,No,3 Months,71494,No
+626,34,Master's,21,Software Engineer,72,86,88,59,1,3,Yes,1 Month,126422,No
+627,25,Bachelor's,22,Analyst,55,67,77,54,0,1,Yes,3 Months,53212,No
+628,22,Bachelor's,2,Data Scientist,71,80,55,58,0,3,No,Immediate,133441,No
+629,53,Bachelor's,33,Data Scientist,99,86,65,51,3,1,No,Immediate,137594,No
+630,55,Bachelor's,31,Software Engineer,87,79,69,83,5,0,Yes,Immediate,51080,Yes
+631,49,Bachelor's,20,Software Engineer,86,91,65,87,8,1,Yes,Immediate,82675,Yes
+632,52,Bachelor's,20,Analyst,94,82,56,80,0,1,Yes,Immediate,72007,Yes
+633,29,Bachelor's,10,Analyst,100,59,90,59,0,4,No,1 Month,132641,No
+634,47,Bachelor's,3,Software Engineer,57,86,63,99,4,3,No,Immediate,145815,No
+635,55,Bachelor's,0,Analyst,90,61,92,61,9,4,No,1 Month,96815,No
+636,24,Bachelor's,27,Software Engineer,98,79,75,85,4,2,No,Immediate,133482,No
+637,33,Bachelor's,23,Data Scientist,84,76,75,70,4,1,Yes,1 Month,50639,Yes
+638,22,Bachelor's,34,Software Engineer,100,88,63,98,9,2,No,1 Month,113593,No
+639,26,High School,12,Software Engineer,60,58,56,96,5,4,Yes,1 Month,128038,No
+640,51,Bachelor's,33,Project Manager,73,70,82,55,7,3,Yes,3 Months,143899,No
+641,51,Bachelor's,10,Software Engineer,98,61,75,97,2,4,Yes,Immediate,53736,Yes
+642,38,Bachelor's,16,Software Engineer,70,78,94,98,8,3,No,Immediate,66473,No
+643,44,Master's,34,Project Manager,100,82,69,52,0,3,No,Immediate,84019,No
+644,36,Bachelor's,17,Analyst,51,92,52,59,3,0,Yes,Immediate,136623,No
+645,58,Bachelor's,21,Project Manager,89,64,53,54,8,1,No,1 Month,144025,No
+646,42,PhD,23,Data Scientist,68,51,75,95,7,4,No,Immediate,86820,No
+647,35,Master's,18,Project Manager,88,88,60,75,9,3,Yes,1 Month,134861,No
+648,23,Master's,20,Data Scientist,77,93,51,70,8,4,Yes,Immediate,107589,No
+649,32,Master's,7,Analyst,66,67,63,94,0,4,No,3 Months,115807,No
+650,59,Bachelor's,27,Project Manager,55,52,93,75,8,3,Yes,3 Months,68414,No
+651,55,Bachelor's,4,Project Manager,68,56,79,87,2,2,Yes,Immediate,74220,No
+652,59,Bachelor's,16,Analyst,87,92,98,93,9,1,No,Immediate,110531,No
+653,55,Bachelor's,18,Data Scientist,77,67,61,75,8,1,No,3 Months,92425,No
+654,39,Bachelor's,26,Project Manager,51,93,75,57,0,0,Yes,3 Months,59387,No
+655,51,Bachelor's,33,Data Scientist,87,87,93,54,0,0,No,Immediate,126815,No
+656,36,Bachelor's,10,Project Manager,86,86,82,64,8,0,Yes,Immediate,77584,Yes
+657,48,Master's,11,Software Engineer,100,82,62,65,5,1,Yes,3 Months,94783,No
+658,55,Master's,20,Project Manager,53,93,63,50,3,2,Yes,1 Month,89809,No
+659,59,Bachelor's,10,Analyst,71,80,73,65,6,1,Yes,Immediate,104327,No
+660,54,Master's,27,Analyst,75,60,83,86,4,1,No,1 Month,60857,No
+661,45,Bachelor's,4,Data Scientist,98,53,93,52,9,1,Yes,3 Months,92261,No
+662,36,Master's,16,Project Manager,92,67,75,96,6,1,Yes,3 Months,123588,No
+663,51,High School,19,Data Scientist,85,53,70,80,7,2,Yes,1 Month,66995,No
+664,38,PhD,11,Data Scientist,62,98,77,62,7,0,No,1 Month,63580,No
+665,26,Bachelor's,5,Software Engineer,81,83,97,65,0,4,Yes,Immediate,68240,Yes
+666,50,Bachelor's,16,Software Engineer,66,78,85,92,7,0,Yes,3 Months,133446,No
+667,25,Bachelor's,18,Analyst,90,73,89,70,5,0,Yes,Immediate,125752,No
+668,31,Bachelor's,25,Data Scientist,85,71,51,51,3,4,No,3 Months,96111,No
+669,38,Bachelor's,31,Analyst,95,51,91,76,7,1,Yes,Immediate,140447,No
+670,31,Bachelor's,5,Project Manager,68,93,58,87,2,2,Yes,3 Months,84866,No
+671,38,Bachelor's,10,Data Scientist,84,55,72,75,3,2,Yes,Immediate,130974,No
+672,41,Bachelor's,32,Data Scientist,95,91,64,87,5,0,No,1 Month,123401,No
+673,45,Bachelor's,23,Project Manager,89,74,62,95,6,4,Yes,Immediate,132093,No
+674,26,Master's,22,Project Manager,77,70,72,74,3,3,Yes,1 Month,62211,No
+675,55,Bachelor's,14,Analyst,50,65,66,60,3,1,Yes,3 Months,108985,No
+676,27,Bachelor's,26,Analyst,91,80,97,57,6,0,Yes,1 Month,83268,Yes
+677,23,High School,10,Project Manager,67,63,51,57,5,2,No,1 Month,53646,No
+678,34,Master's,16,Analyst,97,88,69,82,7,4,Yes,Immediate,105371,Yes
+679,32,Bachelor's,13,Project Manager,89,77,69,56,0,4,No,3 Months,92816,No
+680,44,PhD,26,Data Scientist,82,81,95,87,9,0,No,1 Month,139460,No
+681,37,Master's,17,Data Scientist,61,77,52,70,6,3,Yes,1 Month,94112,No
+682,52,Bachelor's,27,Software Engineer,57,100,61,57,6,2,No,1 Month,101048,No
+683,32,Bachelor's,3,Data Scientist,73,98,89,100,6,0,No,1 Month,104911,No
+684,37,Master's,6,Project Manager,65,58,51,70,6,3,No,Immediate,125446,No
+685,29,Master's,34,Analyst,99,94,85,69,9,4,Yes,1 Month,51778,Yes
+686,25,Bachelor's,8,Software Engineer,53,71,63,57,9,1,Yes,1 Month,95752,No
+687,25,Bachelor's,7,Analyst,87,81,65,95,7,2,Yes,3 Months,134977,No
+688,46,Master's,16,Project Manager,93,54,68,80,8,2,No,3 Months,120726,No
+689,24,Bachelor's,16,Data Scientist,76,72,83,99,8,3,Yes,Immediate,130840,No
+690,53,Master's,32,Software Engineer,58,54,93,78,1,0,Yes,Immediate,77289,No
+691,24,Bachelor's,31,Project Manager,96,91,95,97,6,4,Yes,Immediate,94788,Yes
+692,48,High School,7,Software Engineer,65,81,55,58,6,3,Yes,Immediate,54747,No
+693,50,Master's,18,Software Engineer,61,59,62,64,3,1,Yes,1 Month,124822,No
+694,53,Bachelor's,2,Data Scientist,80,88,85,79,8,1,Yes,3 Months,50045,No
+695,40,Bachelor's,4,Project Manager,73,64,71,75,7,1,Yes,Immediate,145278,No
+696,42,Bachelor's,12,Analyst,63,56,67,59,0,3,No,Immediate,57758,No
+697,26,High School,30,Software Engineer,94,78,61,78,1,4,Yes,3 Months,73437,No
+698,39,Bachelor's,15,Software Engineer,74,96,79,65,1,2,No,3 Months,69585,No
+699,49,Bachelor's,31,Analyst,83,52,100,85,7,0,Yes,1 Month,148759,No
+700,43,Bachelor's,21,Project Manager,52,68,89,69,0,2,Yes,1 Month,59854,No
+701,42,Master's,28,Software Engineer,73,59,56,94,3,4,No,1 Month,102076,No
+702,27,Bachelor's,21,Software Engineer,91,77,81,86,9,2,No,Immediate,106950,No
+703,22,Bachelor's,2,Software Engineer,58,78,97,71,4,3,Yes,Immediate,67349,No
+704,26,Bachelor's,9,Project Manager,75,64,68,56,8,1,No,Immediate,146228,No
+705,33,Master's,20,Project Manager,69,84,55,72,6,4,No,Immediate,71348,No
+706,47,Master's,15,Analyst,89,55,69,90,7,4,No,3 Months,84296,No
+707,55,Bachelor's,11,Project Manager,59,61,76,89,8,2,Yes,1 Month,69455,No
+708,35,Bachelor's,1,Project Manager,68,96,92,78,6,3,Yes,Immediate,128824,No
+709,47,Bachelor's,23,Data Scientist,52,87,86,65,4,2,Yes,Immediate,104021,No
+710,48,Master's,34,Analyst,73,62,97,87,4,2,Yes,Immediate,121923,No
+711,30,Master's,29,Software Engineer,54,78,56,77,9,4,Yes,1 Month,89293,No
+712,47,Bachelor's,29,Project Manager,52,68,54,97,5,2,No,3 Months,149430,No
+713,43,Master's,34,Software Engineer,76,52,60,87,4,1,Yes,Immediate,138552,No
+714,51,Master's,18,Software Engineer,65,57,64,80,8,2,Yes,Immediate,96116,No
+715,38,Bachelor's,7,Data Scientist,98,57,52,63,2,1,Yes,1 Month,90484,No
+716,47,Bachelor's,25,Project Manager,64,69,54,82,2,4,No,1 Month,80215,No
+717,57,Bachelor's,6,Analyst,84,96,72,58,6,3,Yes,Immediate,131638,No
+718,22,Bachelor's,29,Project Manager,61,53,86,76,6,1,No,1 Month,53404,No
+719,29,Master's,6,Software Engineer,90,100,58,73,5,3,Yes,1 Month,87260,Yes
+720,56,Bachelor's,2,Analyst,93,70,64,62,2,3,No,Immediate,115642,No
+721,36,Bachelor's,0,Project Manager,75,52,52,75,6,1,No,Immediate,130731,No
+722,43,Bachelor's,24,Software Engineer,96,94,78,78,4,4,Yes,Immediate,96009,Yes
+723,35,Bachelor's,0,Software Engineer,83,57,55,100,6,0,No,3 Months,142689,No
+724,47,Bachelor's,14,Data Scientist,72,72,66,98,1,3,Yes,3 Months,79605,No
+725,49,Bachelor's,12,Data Scientist,80,65,75,92,5,3,Yes,3 Months,103205,No
+726,44,Bachelor's,7,Data Scientist,99,62,70,77,7,4,Yes,1 Month,87569,Yes
+727,35,Bachelor's,4,Software Engineer,69,52,57,77,0,4,Yes,1 Month,55580,No
+728,45,Bachelor's,8,Project Manager,61,97,70,57,3,2,No,1 Month,55400,No
+729,23,High School,0,Data Scientist,72,58,60,72,0,4,Yes,3 Months,89643,No
+730,47,Bachelor's,34,Project Manager,53,63,87,78,0,3,Yes,Immediate,146185,No
+731,35,Bachelor's,1,Data Scientist,72,62,57,54,9,1,Yes,1 Month,146032,No
+732,28,Bachelor's,22,Analyst,97,56,91,91,7,0,Yes,1 Month,136173,No
+733,24,Bachelor's,8,Analyst,97,64,73,56,6,2,Yes,1 Month,89015,Yes
+734,44,Bachelor's,33,Data Scientist,50,56,84,91,9,1,No,Immediate,121713,No
+735,39,Bachelor's,13,Software Engineer,74,87,63,85,0,0,Yes,1 Month,122805,No
+736,59,Master's,3,Data Scientist,51,83,63,90,1,0,Yes,1 Month,64974,No
+737,56,High School,29,Data Scientist,79,90,59,76,3,0,Yes,Immediate,64037,Yes
+738,36,Bachelor's,30,Software Engineer,52,71,61,95,0,1,Yes,1 Month,134292,No
+739,46,Master's,10,Analyst,70,73,87,51,2,2,Yes,Immediate,66167,No
+740,58,Bachelor's,34,Project Manager,74,98,93,74,7,2,No,3 Months,138754,No
+741,49,Bachelor's,7,Data Scientist,69,86,95,58,7,0,Yes,1 Month,140703,No
+742,31,Master's,2,Software Engineer,98,93,83,76,7,1,Yes,1 Month,93148,Yes
+743,38,Master's,13,Data Scientist,71,50,90,50,5,0,Yes,Immediate,122153,No
+744,43,Bachelor's,12,Software Engineer,70,59,59,72,5,4,Yes,Immediate,71534,No
+745,47,Bachelor's,31,Project Manager,82,92,66,59,4,2,No,1 Month,140995,No
+746,46,Bachelor's,33,Project Manager,87,65,66,91,8,3,Yes,Immediate,136078,No
+747,38,Bachelor's,18,Analyst,64,95,52,74,3,0,Yes,1 Month,106879,No
+748,34,Bachelor's,15,Software Engineer,95,57,80,52,9,4,No,Immediate,115839,No
+749,41,Bachelor's,1,Software Engineer,64,98,100,55,6,2,Yes,3 Months,79756,No
+750,46,Bachelor's,16,Analyst,95,74,50,55,0,1,Yes,1 Month,62683,No
+751,25,Bachelor's,33,Analyst,74,99,61,51,8,2,Yes,Immediate,99485,No
+752,31,Master's,15,Software Engineer,70,61,88,67,6,1,Yes,1 Month,148231,No
+753,24,Bachelor's,1,Analyst,73,74,53,72,9,1,No,3 Months,61025,No
+754,39,High School,1,Project Manager,54,66,91,51,8,0,Yes,1 Month,136426,No
+755,57,Bachelor's,25,Data Scientist,55,75,62,61,6,0,No,Immediate,68715,No
+756,43,Bachelor's,12,Project Manager,98,95,83,71,1,2,Yes,1 Month,120097,No
+757,55,Bachelor's,30,Analyst,92,97,91,86,5,4,No,Immediate,148383,No
+758,29,Bachelor's,33,Software Engineer,97,63,70,69,9,2,Yes,Immediate,142943,No
+759,40,Bachelor's,2,Software Engineer,93,90,71,88,3,3,Yes,Immediate,137116,No
+760,58,Bachelor's,7,Project Manager,96,85,53,73,2,1,Yes,1 Month,125705,No
+761,27,Bachelor's,22,Software Engineer,72,72,67,97,1,1,Yes,Immediate,67116,Yes
+762,47,High School,13,Analyst,53,92,54,69,5,0,Yes,3 Months,86744,No
+763,55,Bachelor's,26,Project Manager,76,55,68,50,7,4,No,Immediate,137579,No
+764,27,Bachelor's,28,Software Engineer,67,96,51,50,5,0,No,Immediate,52124,No
+765,58,PhD,0,Data Scientist,70,54,61,66,8,3,Yes,Immediate,88051,No
+766,54,Bachelor's,16,Data Scientist,77,92,66,50,4,2,Yes,Immediate,57176,No
+767,43,Bachelor's,29,Analyst,84,74,59,94,1,2,No,1 Month,141310,No
+768,42,Bachelor's,12,Software Engineer,71,67,83,79,7,4,Yes,Immediate,114818,No
+769,27,High School,20,Analyst,89,62,55,90,8,0,No,Immediate,68676,No
+770,27,PhD,18,Project Manager,72,92,57,96,9,0,Yes,Immediate,95177,Yes
+771,25,Bachelor's,18,Data Scientist,52,63,100,52,3,3,Yes,Immediate,140296,No
+772,51,Master's,24,Project Manager,89,77,60,95,5,2,Yes,Immediate,50997,Yes
+773,32,Bachelor's,21,Software Engineer,99,67,61,60,9,0,Yes,1 Month,109330,Yes
+774,51,Bachelor's,30,Analyst,59,77,58,73,7,4,Yes,1 Month,93769,No
+775,52,Bachelor's,16,Analyst,74,100,51,71,8,2,No,1 Month,128653,No
+776,45,Master's,22,Analyst,98,76,57,93,4,3,No,1 Month,61231,No
+777,30,High School,31,Project Manager,57,81,60,94,5,4,Yes,1 Month,145287,No
+778,24,Bachelor's,9,Data Scientist,60,96,85,75,3,1,Yes,3 Months,122976,No
+779,52,PhD,9,Project Manager,54,58,59,62,4,3,Yes,Immediate,135447,No
+780,58,Bachelor's,7,Project Manager,94,89,70,50,6,4,No,Immediate,105965,No
+781,57,Bachelor's,19,Software Engineer,86,81,69,73,8,0,Yes,Immediate,131144,No
+782,45,Bachelor's,31,Software Engineer,94,69,97,59,9,1,Yes,Immediate,145201,No
+783,52,PhD,13,Software Engineer,87,77,57,84,5,3,Yes,Immediate,111517,Yes
+784,27,High School,27,Data Scientist,78,82,85,73,5,0,Yes,1 Month,142693,No
+785,23,Master's,23,Data Scientist,54,53,78,77,7,1,No,Immediate,144315,No
+786,41,Master's,14,Software Engineer,58,95,91,85,3,2,Yes,3 Months,145504,No
+787,49,Bachelor's,21,Software Engineer,97,83,61,65,2,0,Yes,Immediate,77387,Yes
+788,32,Bachelor's,29,Data Scientist,51,97,63,89,6,4,Yes,Immediate,54090,No
+789,25,High School,3,Analyst,50,52,97,65,4,3,Yes,3 Months,74945,No
+790,36,Bachelor's,12,Data Scientist,89,75,99,66,1,1,Yes,3 Months,90239,No
+791,27,Master's,22,Data Scientist,100,57,70,100,1,0,Yes,Immediate,53743,Yes
+792,51,Master's,7,Data Scientist,79,55,71,64,5,2,Yes,1 Month,80924,No
+793,59,Bachelor's,17,Software Engineer,60,65,70,65,7,3,Yes,3 Months,60196,No
+794,23,Bachelor's,11,Analyst,77,73,93,64,0,3,Yes,Immediate,141815,No
+795,36,Bachelor's,30,Data Scientist,93,97,99,83,5,0,Yes,Immediate,118860,Yes
+796,32,High School,13,Software Engineer,61,88,79,60,1,2,No,3 Months,91400,No
+797,29,Bachelor's,33,Project Manager,88,79,88,50,1,1,Yes,1 Month,135177,No
+798,47,Bachelor's,17,Project Manager,75,94,69,64,6,0,Yes,Immediate,143018,No
+799,26,Bachelor's,33,Data Scientist,62,62,73,75,9,1,Yes,1 Month,148530,No
+800,27,Bachelor's,10,Project Manager,57,54,72,100,0,3,Yes,Immediate,130399,No
+801,47,Bachelor's,11,Analyst,77,74,56,53,5,1,Yes,3 Months,98795,No
+802,25,Bachelor's,14,Project Manager,79,69,58,92,6,2,No,Immediate,101553,No
+803,40,Bachelor's,30,Project Manager,58,67,50,54,7,4,Yes,3 Months,74111,No
+804,41,Master's,28,Analyst,88,96,75,84,6,2,Yes,1 Month,113083,Yes
+805,54,Bachelor's,25,Data Scientist,80,67,87,62,5,1,No,Immediate,111600,No
+806,41,Master's,17,Data Scientist,70,51,87,59,8,0,Yes,Immediate,100022,No
+807,33,Master's,31,Analyst,96,59,93,60,2,3,No,1 Month,53199,No
+808,22,Bachelor's,21,Analyst,83,94,71,67,5,4,Yes,3 Months,100897,No
+809,47,Master's,16,Analyst,80,99,93,83,3,0,No,Immediate,88038,No
+810,35,Bachelor's,22,Project Manager,74,96,59,88,1,0,No,Immediate,105038,No
+811,59,Bachelor's,23,Analyst,61,61,55,90,0,2,No,1 Month,57897,No
+812,58,Bachelor's,7,Software Engineer,50,96,66,91,0,1,No,1 Month,114541,No
+813,32,Bachelor's,5,Project Manager,71,62,100,99,9,2,No,Immediate,64892,No
+814,57,Bachelor's,4,Data Scientist,89,99,99,72,2,1,No,1 Month,58271,No
+815,34,Bachelor's,28,Data Scientist,86,96,87,56,3,2,Yes,1 Month,74815,Yes
+816,24,Bachelor's,27,Data Scientist,96,60,73,88,1,0,Yes,Immediate,95612,Yes
+817,54,Bachelor's,10,Project Manager,50,68,100,52,0,3,Yes,Immediate,83357,No
+818,27,Bachelor's,0,Software Engineer,50,84,59,61,3,1,No,Immediate,125088,No
+819,31,Master's,18,Analyst,91,88,57,56,6,4,No,1 Month,66267,No
+820,26,Bachelor's,8,Analyst,91,75,70,98,9,4,No,1 Month,68268,No
+821,44,Bachelor's,26,Data Scientist,70,95,55,75,5,0,No,1 Month,64263,No
+822,31,Master's,33,Data Scientist,64,63,70,82,5,2,Yes,Immediate,120935,No
+823,23,Bachelor's,3,Project Manager,66,94,88,86,8,2,Yes,Immediate,145347,No
+824,34,High School,17,Software Engineer,71,93,73,97,1,0,Yes,3 Months,109660,No
+825,23,Bachelor's,14,Analyst,87,73,82,64,3,4,Yes,Immediate,115527,Yes
+826,41,Bachelor's,12,Project Manager,84,90,67,51,4,4,Yes,1 Month,113379,Yes
+827,22,PhD,18,Analyst,94,50,77,90,0,2,No,1 Month,144542,No
+828,58,Bachelor's,5,Data Scientist,65,100,81,56,7,1,No,Immediate,91271,No
+829,30,Master's,11,Analyst,57,92,61,81,7,3,Yes,Immediate,116612,No
+830,38,Bachelor's,16,Software Engineer,96,71,97,53,5,1,Yes,Immediate,57235,Yes
+831,30,Bachelor's,22,Software Engineer,66,72,91,69,4,4,Yes,Immediate,138757,No
+832,32,Bachelor's,25,Data Scientist,66,68,76,99,7,1,Yes,1 Month,66417,No
+833,36,Bachelor's,28,Software Engineer,75,67,59,85,2,3,Yes,Immediate,148075,No
+834,45,Bachelor's,32,Software Engineer,62,61,95,81,2,1,Yes,Immediate,84609,No
+835,59,Master's,26,Project Manager,66,77,91,77,1,1,Yes,1 Month,83902,Yes
+836,56,Master's,24,Analyst,87,77,81,62,4,1,Yes,Immediate,73645,Yes
+837,51,Bachelor's,9,Data Scientist,66,82,91,50,2,1,No,1 Month,112873,No
+838,52,PhD,22,Data Scientist,97,68,75,84,2,0,Yes,Immediate,137218,No
+839,26,Master's,20,Data Scientist,63,77,74,97,5,4,Yes,Immediate,114558,No
+840,35,Bachelor's,20,Data Scientist,94,98,60,79,7,3,Yes,Immediate,112233,Yes
+841,32,Bachelor's,12,Data Scientist,55,86,72,85,1,4,Yes,Immediate,73401,No
+842,30,Bachelor's,32,Software Engineer,84,75,83,74,3,0,Yes,3 Months,57771,No
+843,55,Bachelor's,23,Project Manager,95,84,89,65,6,0,No,1 Month,91335,No
+844,33,Bachelor's,10,Data Scientist,63,83,72,68,0,0,Yes,Immediate,124451,No
+845,56,High School,16,Project Manager,96,84,78,50,0,0,Yes,Immediate,129434,No
+846,56,Master's,3,Project Manager,57,89,80,54,9,1,Yes,Immediate,117449,No
+847,22,Bachelor's,24,Software Engineer,64,65,56,100,6,4,Yes,Immediate,142604,No
+848,43,Bachelor's,29,Data Scientist,76,87,89,71,6,2,Yes,Immediate,51942,Yes
+849,50,Master's,8,Software Engineer,62,62,82,73,0,3,Yes,1 Month,70388,No
+850,29,Master's,20,Data Scientist,98,72,70,92,0,0,No,3 Months,133251,No
+851,32,Bachelor's,19,Software Engineer,80,71,51,94,3,4,No,Immediate,107042,No
+852,58,Master's,18,Project Manager,84,65,67,86,4,0,No,1 Month,103740,No
+853,35,High School,18,Data Scientist,55,77,96,85,4,0,Yes,3 Months,115873,No
+854,51,High School,11,Analyst,54,97,82,85,3,0,Yes,Immediate,97024,No
+855,56,Bachelor's,16,Project Manager,71,84,86,53,7,0,No,3 Months,73450,No
+856,42,Bachelor's,27,Analyst,98,94,83,85,6,0,Yes,1 Month,106965,Yes
+857,58,Bachelor's,34,Project Manager,72,95,69,67,8,3,Yes,Immediate,60057,No
+858,26,Bachelor's,17,Software Engineer,74,57,84,99,6,4,Yes,3 Months,143249,No
+859,40,Bachelor's,13,Data Scientist,83,93,100,65,9,0,Yes,Immediate,58983,Yes
+860,35,Bachelor's,34,Project Manager,75,71,99,90,0,0,Yes,Immediate,69995,Yes
+861,47,Bachelor's,6,Software Engineer,96,70,67,67,6,0,Yes,1 Month,141628,No
+862,25,Master's,12,Data Scientist,54,75,95,71,0,0,Yes,Immediate,127681,No
+863,46,Bachelor's,17,Data Scientist,75,89,73,51,6,1,No,Immediate,88886,No
+864,46,Bachelor's,12,Project Manager,69,70,57,70,9,1,Yes,Immediate,139025,No
+865,39,Bachelor's,30,Data Scientist,55,74,79,85,7,2,Yes,1 Month,146572,No
+866,29,Bachelor's,1,Project Manager,55,90,93,93,8,0,Yes,1 Month,145149,No
+867,35,High School,15,Data Scientist,99,50,59,88,2,2,Yes,1 Month,144020,No
+868,53,Master's,8,Analyst,67,55,72,96,3,3,Yes,3 Months,52673,No
+869,59,Bachelor's,8,Software Engineer,53,72,98,88,3,2,No,Immediate,84890,No
+870,54,Bachelor's,10,Analyst,66,100,60,78,8,4,Yes,Immediate,127513,No
+871,44,Bachelor's,21,Project Manager,63,72,51,75,6,1,No,1 Month,73466,No
+872,36,Bachelor's,32,Analyst,63,92,75,70,2,1,Yes,1 Month,142545,No
+873,54,Bachelor's,22,Project Manager,62,92,85,66,9,0,Yes,Immediate,100406,No
+874,46,Bachelor's,33,Data Scientist,56,72,82,65,4,0,No,Immediate,53688,No
+875,38,Bachelor's,8,Data Scientist,93,81,96,80,6,3,Yes,3 Months,119284,No
+876,54,Bachelor's,23,Project Manager,64,79,62,100,7,3,Yes,3 Months,63665,No
+877,23,Bachelor's,7,Analyst,68,62,89,58,0,4,Yes,1 Month,70641,No
+878,35,Bachelor's,6,Data Scientist,92,92,74,80,1,0,Yes,Immediate,82500,Yes
+879,27,Master's,17,Software Engineer,96,67,53,63,6,0,Yes,3 Months,85797,No
+880,27,Master's,2,Data Scientist,93,72,91,98,1,3,Yes,3 Months,134766,No
+881,24,Master's,27,Software Engineer,84,64,68,86,6,3,Yes,1 Month,95950,Yes
+882,28,Bachelor's,5,Analyst,66,82,67,51,8,3,Yes,3 Months,75046,No
+883,29,Bachelor's,20,Software Engineer,84,70,86,97,1,1,No,3 Months,59638,No
+884,36,Bachelor's,27,Software Engineer,68,88,79,95,6,2,No,3 Months,136363,No
+885,50,Bachelor's,0,Software Engineer,69,72,68,63,3,2,No,3 Months,71173,No
+886,54,Bachelor's,20,Software Engineer,85,76,72,82,1,0,Yes,1 Month,63222,Yes
+887,51,Bachelor's,34,Data Scientist,84,94,65,84,6,1,No,1 Month,100064,No
+888,48,Bachelor's,12,Software Engineer,81,93,50,88,4,3,Yes,Immediate,87010,Yes
+889,57,PhD,9,Data Scientist,97,67,61,96,0,0,No,1 Month,68095,No
+890,50,Bachelor's,9,Software Engineer,93,73,73,100,4,1,Yes,1 Month,51439,Yes
+891,59,Bachelor's,12,Project Manager,89,100,83,69,2,4,Yes,3 Months,135550,No
+892,54,Bachelor's,23,Analyst,73,96,57,51,6,1,No,Immediate,55375,No
+893,58,Master's,1,Software Engineer,66,89,67,100,5,0,Yes,1 Month,139023,No
+894,48,Bachelor's,21,Project Manager,56,100,97,90,7,2,Yes,Immediate,141238,No
+895,54,Bachelor's,16,Software Engineer,92,91,54,68,4,3,No,1 Month,70600,No
+896,25,Bachelor's,13,Software Engineer,99,56,75,86,1,4,No,1 Month,52466,No
+897,43,Bachelor's,9,Software Engineer,50,99,79,67,8,1,No,Immediate,95097,No
+898,23,Bachelor's,34,Project Manager,84,97,62,65,7,0,Yes,1 Month,103276,Yes
+899,31,Master's,24,Analyst,81,69,68,53,5,0,Yes,Immediate,100117,No
+900,26,Bachelor's,2,Project Manager,85,76,78,61,9,3,Yes,Immediate,96971,Yes
+901,31,Bachelor's,16,Analyst,62,55,52,78,6,0,Yes,1 Month,56928,No
+902,54,High School,11,Software Engineer,55,76,75,56,8,0,Yes,Immediate,138016,No
+903,59,High School,23,Data Scientist,63,58,89,63,6,3,Yes,Immediate,105309,No
+904,34,Bachelor's,28,Software Engineer,86,94,61,61,2,4,Yes,Immediate,124647,No
+905,52,Bachelor's,24,Analyst,97,80,51,84,5,2,Yes,Immediate,90888,Yes
+906,57,Bachelor's,25,Project Manager,64,70,60,54,6,2,No,1 Month,145025,No
+907,45,Bachelor's,0,Software Engineer,96,75,93,66,1,1,No,Immediate,93832,No
+908,36,Bachelor's,19,Project Manager,53,89,77,91,2,4,No,3 Months,59404,No
+909,50,Bachelor's,27,Project Manager,89,97,67,81,3,1,No,Immediate,83639,No
+910,29,Bachelor's,15,Project Manager,65,94,62,59,9,2,Yes,Immediate,128118,No
+911,26,Master's,16,Software Engineer,77,62,86,92,5,3,No,Immediate,110598,No
+912,50,Bachelor's,27,Project Manager,65,98,71,66,0,0,Yes,1 Month,116399,No
+913,25,Bachelor's,11,Project Manager,53,72,61,54,8,2,No,1 Month,77684,No
+914,33,Master's,26,Software Engineer,94,69,51,94,4,4,No,3 Months,118591,No
+915,23,Bachelor's,29,Project Manager,75,86,86,91,6,2,No,1 Month,127722,No
+916,48,Master's,33,Software Engineer,77,77,56,58,8,4,Yes,Immediate,52682,No
+917,52,Bachelor's,5,Analyst,81,66,75,98,8,4,Yes,1 Month,88046,Yes
+918,57,PhD,6,Analyst,94,77,75,82,0,4,Yes,3 Months,71832,No
+919,57,Bachelor's,31,Analyst,51,90,73,85,0,1,Yes,Immediate,66997,No
+920,47,Bachelor's,31,Project Manager,80,51,61,85,2,3,Yes,Immediate,84640,No
+921,48,Bachelor's,24,Data Scientist,52,74,65,67,5,2,Yes,1 Month,126882,No
+922,26,Master's,32,Data Scientist,57,99,72,58,1,3,Yes,Immediate,90491,No
+923,41,Master's,6,Project Manager,73,90,89,78,9,0,Yes,3 Months,113043,No
+924,32,High School,11,Data Scientist,64,55,58,99,0,2,No,Immediate,122725,No
+925,31,Bachelor's,15,Software Engineer,92,60,81,63,0,3,Yes,Immediate,95520,Yes
+926,59,Master's,15,Data Scientist,80,87,64,74,4,3,Yes,3 Months,112919,No
+927,27,Bachelor's,12,Project Manager,58,55,86,64,3,0,No,3 Months,114442,No
+928,29,Master's,6,Project Manager,88,94,62,55,0,4,Yes,Immediate,71770,Yes
+929,44,Master's,8,Software Engineer,94,60,54,91,3,2,No,3 Months,97498,No
+930,47,Bachelor's,31,Analyst,51,63,60,78,2,2,Yes,Immediate,111477,No
+931,33,Bachelor's,10,Project Manager,57,51,59,64,1,0,Yes,Immediate,50244,No
+932,47,Bachelor's,7,Software Engineer,56,89,62,78,8,4,Yes,3 Months,82788,No
+933,34,Bachelor's,32,Data Scientist,93,52,90,53,0,2,Yes,1 Month,145341,No
+934,39,Master's,22,Data Scientist,100,84,95,67,6,2,Yes,Immediate,129453,No
+935,46,Bachelor's,24,Software Engineer,88,82,99,99,3,2,Yes,Immediate,107737,Yes
+936,54,Master's,7,Software Engineer,91,73,64,98,4,4,Yes,1 Month,96489,Yes
+937,33,Bachelor's,21,Project Manager,65,68,91,93,9,0,Yes,Immediate,121303,No
+938,57,PhD,3,Data Scientist,84,67,56,88,4,2,Yes,1 Month,78390,Yes
+939,25,Bachelor's,2,Software Engineer,79,98,89,65,0,3,Yes,1 Month,60247,Yes
+940,26,High School,28,Data Scientist,59,73,77,60,5,4,Yes,Immediate,119051,No
+941,58,High School,28,Software Engineer,87,94,81,63,8,1,Yes,1 Month,109719,Yes
+942,29,Master's,33,Data Scientist,67,84,84,52,1,0,Yes,3 Months,84678,No
+943,49,Bachelor's,33,Analyst,99,50,64,100,6,3,Yes,Immediate,137802,No
+944,52,Master's,27,Project Manager,54,85,97,99,5,2,Yes,Immediate,126286,No
+945,30,Bachelor's,12,Data Scientist,78,74,85,91,4,1,No,Immediate,79583,No
+946,50,High School,14,Analyst,88,94,70,87,3,0,Yes,1 Month,58076,Yes
+947,35,Bachelor's,22,Data Scientist,83,98,55,94,3,4,No,3 Months,68006,No
+948,43,Bachelor's,25,Data Scientist,92,92,50,91,5,1,No,Immediate,65051,No
+949,32,Bachelor's,3,Analyst,94,83,53,67,3,1,Yes,Immediate,54314,Yes
+950,44,PhD,25,Data Scientist,72,74,60,69,4,3,Yes,Immediate,78670,No
+951,22,PhD,8,Data Scientist,54,65,93,97,5,0,No,1 Month,117551,No
+952,58,Master's,4,Project Manager,79,83,75,74,4,3,No,Immediate,60236,No
+953,42,Master's,31,Analyst,55,78,86,87,6,3,Yes,3 Months,85568,No
+954,47,Bachelor's,19,Analyst,95,68,72,62,8,2,No,Immediate,110314,No
+955,57,Bachelor's,10,Software Engineer,93,72,78,53,9,4,No,1 Month,141903,No
+956,44,Bachelor's,14,Data Scientist,53,68,70,63,6,1,Yes,1 Month,66352,No
+957,22,Master's,31,Project Manager,78,74,97,82,6,0,No,1 Month,95650,No
+958,36,High School,27,Data Scientist,72,65,94,77,3,4,Yes,Immediate,60346,Yes
+959,42,Bachelor's,21,Data Scientist,55,100,94,86,0,4,Yes,1 Month,75156,Yes
+960,30,High School,16,Software Engineer,81,58,98,57,7,0,No,Immediate,105904,No
+961,30,Bachelor's,25,Data Scientist,91,50,76,93,3,4,No,Immediate,64035,No
+962,31,Master's,6,Project Manager,67,91,88,83,0,2,Yes,1 Month,66108,Yes
+963,47,Master's,25,Project Manager,64,68,89,93,4,4,Yes,1 Month,52853,Yes
+964,56,Bachelor's,24,Software Engineer,89,82,62,54,7,2,Yes,Immediate,134156,No
+965,46,PhD,9,Data Scientist,81,83,72,54,3,1,No,Immediate,54176,No
+966,47,Bachelor's,18,Project Manager,58,65,65,80,7,1,Yes,3 Months,75920,No
+967,32,High School,10,Data Scientist,86,93,79,94,7,3,No,3 Months,104850,No
+968,59,Bachelor's,12,Data Scientist,59,89,53,58,2,2,No,Immediate,56829,No
+969,23,Bachelor's,7,Data Scientist,69,67,89,91,8,1,Yes,1 Month,140666,No
+970,28,High School,3,Software Engineer,55,83,65,81,2,4,Yes,Immediate,123927,No
+971,39,PhD,30,Data Scientist,97,74,80,82,0,0,Yes,1 Month,134860,No
+972,48,Bachelor's,27,Project Manager,52,94,91,52,1,0,Yes,3 Months,90667,No
+973,55,Master's,10,Data Scientist,91,55,74,79,5,2,Yes,Immediate,115842,Yes
+974,48,Bachelor's,0,Project Manager,60,70,93,99,9,3,Yes,1 Month,85843,Yes
+975,38,Bachelor's,23,Data Scientist,92,55,61,61,1,4,Yes,Immediate,100808,No
+976,45,Bachelor's,30,Project Manager,66,81,75,78,5,2,Yes,1 Month,80543,No
+977,46,Bachelor's,25,Project Manager,81,90,86,52,0,0,Yes,1 Month,122780,No
+978,28,Bachelor's,4,Data Scientist,53,97,97,75,0,2,Yes,3 Months,56611,No
+979,27,Master's,19,Data Scientist,53,92,82,79,4,4,Yes,Immediate,138242,No
+980,45,Bachelor's,10,Project Manager,66,88,77,58,9,1,Yes,Immediate,134612,No
+981,54,Bachelor's,32,Analyst,90,80,58,75,8,4,Yes,Immediate,96902,Yes
+982,50,Bachelor's,26,Software Engineer,68,91,61,51,7,1,Yes,3 Months,83043,No
+983,43,High School,33,Analyst,54,59,54,52,2,1,Yes,1 Month,55271,No
+984,47,Bachelor's,14,Analyst,81,79,77,95,2,1,No,1 Month,122867,No
+985,49,Bachelor's,31,Data Scientist,71,67,84,53,0,2,Yes,Immediate,127089,No
+986,42,High School,20,Software Engineer,55,73,54,74,2,0,Yes,3 Months,108745,No
+987,28,Bachelor's,4,Analyst,84,58,83,100,0,2,No,3 Months,146876,No
+988,38,Bachelor's,5,Data Scientist,71,80,95,62,7,0,Yes,1 Month,112077,Yes
+989,41,Bachelor's,21,Analyst,50,64,83,88,0,4,Yes,Immediate,109119,No
+990,41,Bachelor's,17,Analyst,69,53,62,93,4,3,No,Immediate,61573,No
+991,43,Bachelor's,13,Data Scientist,71,89,88,84,8,4,No,1 Month,71409,No
+992,49,Master's,9,Data Scientist,97,58,91,72,6,2,No,1 Month,135970,No
+993,28,Bachelor's,12,Data Scientist,60,94,94,58,3,2,No,Immediate,74464,No
+994,22,Bachelor's,30,Software Engineer,62,58,97,51,8,0,Yes,1 Month,92840,No
+995,53,High School,29,Analyst,91,75,63,90,8,2,Yes,Immediate,98785,Yes
+996,34,PhD,2,Data Scientist,52,53,60,93,1,1,Yes,1 Month,70662,No
+997,51,Bachelor's,29,Project Manager,58,66,91,80,9,2,Yes,1 Month,68228,No
+998,44,Bachelor's,5,Analyst,61,65,87,93,9,0,Yes,Immediate,110721,No
+999,40,Master's,28,Project Manager,72,64,53,96,5,0,No,1 Month,99223,No
+1000,53,Bachelor's,7,Software Engineer,63,84,82,51,3,1,Yes,Immediate,57386,No

@@ -1,0 +1,10 @@
+# This will be a trained scikit-learn model
+# For now, let's create a simple RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier
+import joblib
+
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.feature_names_ = ['income', 'credit_score', 'debt_ratio', 'employment_length']
+
+# Save the model
+joblib.dump(model, 'loan_default_model.pkl') 

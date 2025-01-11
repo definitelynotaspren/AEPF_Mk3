@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "AEPF_Mk3"
+version = "0.1.0"
+description = ""
+authors = ["Your Name"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+numpy = ">=1.26.4"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+pytest-cov = "^6.0.0"
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+pythonpath = [
+    ".",
+    "AEPF_Core",
+    "AI_Models"
+]
+
+[tool.pylance]
+python.analysis.extraPaths = [
+    ".",
+    "AEPF_Core",
+    "AI_Models"
+] 

@@ -1,0 +1,25 @@
+{
+    "feature_columns": [
+        "loan_amount",
+        "term",
+        "interest_rate",
+        "employment_length",
+        "home_ownership",
+        "annual_income",
+        "verification_status",
+        "purpose",
+        "dti",
+        "delinq_2yrs",
+        "credit_score"
+    ],
+    "categorical_features": [
+        "home_ownership",
+        "verification_status",
+        "purpose"
+    ],
+    "target_column": "loan_status",
+    "model_params": {
+        "random_state": 42,
+        "test_size": 0.2
+    }
+} 

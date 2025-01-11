@@ -1,0 +1,61 @@
+{
+    "summary": {
+        "final_score": 0.6894285714285714,
+        "five_star_rating": 3.447142857142857,
+        "detected_scenario": "loan_default",
+        "valid_prisms": 3,
+        "total_prisms": 5
+    },
+    "full_report": {
+        "context_analysis": {
+            "domain": "financial",
+            "impact_level": "high",
+            "time_criticality": "medium",
+            "human_oversight": "required",
+            "data_sensitivity": "high",
+            "automation_level": "semi-automated",
+            "decision_impact": "significant"
+        },
+        "weight_adjustments": {
+            "equity_focused": 0.35,
+            "innovation_focused": 0.15,
+            "human_centric": 0.25,
+            "ecocentric": 0.05,
+            "sentient_first": 0.2
+        },
+        "prism_results": {
+            "equity_focused": {
+                "score": 0.86,
+                "metrics": {
+                    "bias_mitigation_score": 0.85,
+                    "accessibility_score": 0.8,
+                    "representation_score": 0.9,
+                    "demographic_equity_score": 0.85,
+                    "resource_fairness_score": 0.9
+                }
+            },
+            "human_centric": {
+                "score": 0.8642857142857142,
+                "metrics": {
+                    "wellbeing_score": 0.85,
+                    "autonomy_score": 0.8,
+                    "privacy_score": 0.9,
+                    "transparency_score": 0.85,
+                    "accountability_score": 0.88,
+                    "fairness_score": 0.82,
+                    "safety_score": 0.95
+                }
+            },
+            "innovation_focused": {
+                "score": 0.0,
+                "metrics": {
+                    "financial_risk": 0.2,
+                    "reputational_risk": 0.3,
+                    "technological_risk": 0.25,
+                    "economic_benefit": 0.8,
+                    "societal_benefit": 0.7
+                }
+            }
+        }
+    }
+}

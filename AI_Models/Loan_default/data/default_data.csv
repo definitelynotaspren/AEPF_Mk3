@@ -1,0 +1,5 @@
+income,credit_score,debt_ratio,employment_length,default
+65000,720,0.28,5,0
+48000,680,0.35,3,1
+85000,750,0.22,8,0
+52000,630,0.40,2,1 

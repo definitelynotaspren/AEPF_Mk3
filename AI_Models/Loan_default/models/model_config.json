@@ -1,0 +1,66 @@
+{
+    "base_rate": 0.05,
+    "default_threshold": 0.15,
+    "rate_threshold": 0.015,
+    "grade_bounds": {
+        "A": [
+            0.0525,
+            0.0825
+        ],
+        "B": [
+            0.0725,
+            0.1025
+        ],
+        "C": [
+            0.0925,
+            0.1325
+        ],
+        "D": [
+            0.1125,
+            0.1625
+        ],
+        "E": [
+            0.1325,
+            0.1925
+        ],
+        "F": [
+            0.1525,
+            0.2225
+        ],
+        "G": [
+            0.1725,
+            0.2525
+        ]
+    },
+    "feature_names": [
+        "id",
+        "address_state",
+        "application_type",
+        "emp_length",
+        "grade",
+        "home_ownership",
+        "member_id",
+        "purpose",
+        "sub_grade",
+        "term",
+        "verification_status",
+        "annual_income",
+        "dti",
+        "installment",
+        "loan_amount",
+        "total_acc",
+        "total_payment",
+        "debt_to_income_ratio",
+        "installment_to_income_ratio",
+        "credit_utilization",
+        "months_since_issue",
+        "months_since_last_payment",
+        "months_since_last_credit_pull",
+        "avg_historical_rate",
+        "std_historical_rate",
+        "avg_historical_dti",
+        "std_historical_dti",
+        "avg_loan_amount",
+        "loan_count"
+    ]
+}

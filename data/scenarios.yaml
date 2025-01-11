@@ -1,0 +1,49 @@
+Loan Default Model:
+  Mortgage Application:
+    description: "Analysis of mortgage loan applications"
+    metrics:
+      - approval_rate
+      - default_risk
+      - fairness_score
+  Personal Loan:
+    description: "Evaluation of personal loan requests"
+    metrics:
+      - credit_score
+      - income_stability
+      - debt_ratio
+
+Random Forest:
+  Candidate Selection:
+    description: "AI-driven candidate screening and selection"
+    metrics:
+      - qualification_match
+      - experience_fit
+      - skill_assessment
+  Resume Screening:
+    description: "Automated resume analysis and ranking"
+    metrics:
+      - education_relevance
+      - skill_matching
+      - experience_validation
+  Interview Analysis:
+    description: "Analysis of candidate interview responses"
+    metrics:
+      - communication_score
+      - technical_knowledge
+      - cultural_fit
+
+Neural Network:
+  Credit Scoring:
+    description: "Deep learning credit risk assessment"
+    metrics:
+      - credit_worthiness
+      - payment_history
+      - financial_stability
+
+XGBoost:
+  Fraud Detection:
+    description: "Advanced fraud pattern detection"
+    metrics:
+      - transaction_risk
+      - anomaly_score
+      - pattern_matching 
