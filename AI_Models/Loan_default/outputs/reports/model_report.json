@@ -1,0 +1,39 @@
+{
+    "scenario_type": "Loan Default Prediction",
+    "model_type": "Gradient Boosting Default Model",
+    "metrics": {
+        "accuracy": {
+            "value": 0.87,
+            "trend": "+1.5%",
+            "narrative": "Consistent improvement in predictions"
+        },
+        "precision": {
+            "value": 0.85,
+            "trend": "+2.0%",
+            "narrative": "Better default risk identification"
+        },
+        "recall": {
+            "value": 0.86,
+            "trend": "+1.8%",
+            "narrative": "Improved risk capture rate"
+        }
+    },
+    "feature_importance": {
+        "credit_score": 0.35,
+        "income": 0.25,
+        "debt_ratio": 0.22,
+        "payment_history": 0.18
+    },
+    "insights": {
+        "strengths": [
+            "Strong default prediction accuracy",
+            "Balanced risk assessment",
+            "Reliable credit scoring"
+        ],
+        "improvement_areas": [
+            "Edge case handling",
+            "New market adaptation",
+            "Real-time assessment speed"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "include": [
+        "AI_Models",
+        "UI",
+        "tests",
+        "AEPF_Core"
+    ],
+    "extraPaths": [
+        ".",
+        "./AI_Models",
+        "./UI",
+        "./tests",
+        "./AEPF_Core"
+    ],
+    "venvPath": ".",
+    "pythonVersion": "3.13",
+    "typeCheckingMode": "basic"
+} 

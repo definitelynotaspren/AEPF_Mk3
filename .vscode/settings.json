@@ -1,9 +1,14 @@
 {
     "python.analysis.extraPaths": [
-        "${workspaceFolder}",
-        "${workspaceFolder}/env/Lib/site-packages"
+        ".",
+        "./AI_Models",
+        "./UI",
+        "./tests",
+        "./AEPF_Core"
     ],
-    "python.defaultInterpreterPath": "${workspaceFolder}/env/Scripts/python.exe",
+    "python.analysis.autoImportCompletions": true,
     "python.analysis.typeCheckingMode": "basic",
-    "python.analysis.autoImportCompletions": true
+    "python.defaultInterpreterPath": "./aepf_env/Scripts/python.exe",
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.useLibraryCodeForTypes": true
 } 

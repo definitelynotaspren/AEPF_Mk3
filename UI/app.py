@@ -25,7 +25,7 @@ page_files = {
     "Welcome": os.path.join(BASE_PATH, "UI", "ui_pages", "welcome_page.py"),
     "Analyser": os.path.join(BASE_PATH, "UI", "ui_pages", "analyser.py"),
     "Contact": os.path.join(BASE_PATH, "UI", "ui_pages", "contact.py"),
-    "About": os.path.join(BASE_PATH, "UI", "ui_pages", "about.py"),
+    "About": os.path.join(BASE_PATH, "UI", "ui_pages", "About.py")
 }
 
 # Check for detailed report page first
@@ -56,13 +56,20 @@ else:
                     "logging": logging,
                     "logger": logging.getLogger(__name__)
                 }
+                
+                # Clear any existing page content
+                st.empty()
+                
                 with open(page_path, "r", encoding="utf-8") as page_file:
                     content = page_file.read()
                     try:
+                        # Execute the content only once
                         exec(content, exec_context)
-                        # Try to explicitly call show() function
-                        if 'show' in exec_context:
+                        # Call show() only if it exists and hasn't been called
+                        if 'show' in exec_context and callable(exec_context['show']):
                             exec_context['show']()
+                            # Prevent multiple executions
+                            del exec_context['show']
                     except Exception as e:
                         st.error(f"Error executing page: {str(e)}")
         except Exception as e:

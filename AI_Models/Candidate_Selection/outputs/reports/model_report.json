@@ -1,0 +1,39 @@
+{
+    "scenario_type": "Candidate Selection",
+    "model_type": "Random Forest Recruitment Model",
+    "metrics": {
+        "accuracy": {
+            "value": 0.775,
+            "trend": "+2.5%",
+            "narrative": "Based on historical hiring outcomes"
+        },
+        "precision": {
+            "value": 0.3333333333333333,
+            "trend": "+1.8%",
+            "narrative": "Improvement in selection accuracy"
+        },
+        "recall": {
+            "value": 0.125,
+            "trend": "+1.2%",
+            "narrative": "Better candidate identification"
+        }
+    },
+    "feature_importance": {
+        "technical_skills_score": 0.34979645081411603,
+        "communication_skills_score": 0.23261906077672193,
+        "leadership_skills_score": 0.21900882431646782,
+        "cultural_fit_score": 0.19857566409269423
+    },
+    "insights": {
+        "strengths": [
+            "High accuracy in technical assessment",
+            "Strong cultural fit prediction",
+            "Consistent performance across departments"
+        ],
+        "improvement_areas": [
+            "Leadership potential assessment",
+            "Long-term performance prediction",
+            "Cross-functional skill evaluation"
+        ]
+    }
+}
