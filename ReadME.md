@@ -1,3 +1,5 @@
+`yo i'm still figuring out how to get this to run while I run python 3.13. can't make me try to build 3.10 from scratch NO THANK YOU....`
+
 # AEPF_OpenSource  
 🚀 **Adaptive Ethical Prism Framework (AEPF) - Open Source AI Ethics**  
 
