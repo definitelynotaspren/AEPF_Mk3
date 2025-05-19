@@ -42,23 +42,39 @@ with tarfile.open(filename, "r:gz") as tar:
 source_dir = os.path.join(workdir, f"{package}-{version}")
 setup_path = os.path.join(source_dir, "setup.py")
 
-# Step 5: Patch setup.py
-print("Patching setup.py to bypass version error...")
-with open(setup_path, "r", encoding="utf-8") as f:
-    lines = f.readlines()
+# Step 5: Overwrite setup.py with custom content
+print("Overwriting setup.py with hardcoded version...")
 
-patched_lines = []
-for line in lines:
-    if "get_version()" in line:
-        patched_lines.append('version = "10.2.0"\n')
-    elif "__version__" in line:
-        continue
-    else:
-        patched_lines.append(line)
+custom_setup = f"""
+from setuptools import setup, Extension
+
+setup(
+    name="Pillow",
+    version="{version}",
+    description="Python Imaging Library (Fork)",
+    long_description="Hardcoded build for Python 3.13 compatibility",
+    author="Alex Clark (PIL Fork Author)",
+    author_email="aclark@python-pillow.org",
+    url="https://python-pillow.org",
+    packages=["PIL"],
+    package_dir={{"": "src"}},
+    classifiers=[
+        "Development Status :: 5 - Production/Stable",
+        "Intended Audience :: Developers",
+        "License :: OSI Approved :: Historical Permission Notice and Disclaimer (HPND)",
+        "Operating System :: OS Independent",
+        "Programming Language :: Python",
+        "Programming Language :: Python :: 3",
+        "Topic :: Multimedia :: Graphics",
+        "Topic :: Multimedia :: Graphics :: Graphics Conversion",
+        "Topic :: Multimedia :: Graphics :: Viewers",
+    ],
+    python_requires=">=3.8",
+)
+"""
 
 with open(setup_path, "w", encoding="utf-8") as f:
-    f.writelines(patched_lines)
-
+    f.write(custom_setup.strip())
 # Step 6: Build the wheel
 print("Building wheel...")
 subprocess.check_call([os.sys.executable, "setup.py", "bdist_wheel"], cwd=source_dir)
